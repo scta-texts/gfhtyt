@@ -59,7 +59,7 @@
         </p>
         <p xml:id="gfhtyt-d1e105-d1e108">
           arguitur 
-          <lb ed="#O" n="8"/>primo quod haec scientia ordinatur ad <unclear>aliquem <!-- alium (but alium is masculaine not neuter) --></unclear> finem quam ad speculationem 
+          <lb ed="#O" n="8"/>primo quod haec scientia ordinatur ad <!--<unclear>-->aliquem <!-- alium (but alium is masculaine not neuter) --><!--</unclear>--> finem quam ad speculationem 
           <lb ed="#O"/>ergo est practica <g ref="#dot"/> consequentia patet per <ref xml:id="gfhtyt-d1e105-Rd1e120"><name xml:id="gfhtyt-d1e105-Nd1e121" ref="#Aristotle">philosophus</name> 2 <title ref="#Metaphysics">metaphysicae</title></ref> et <ref xml:id="gfhtyt-d1e105-Rd1e128"><name xml:id="gfhtyt-d1e105-Nd1e129" ref="#Averroes">commentatorem</name> commento 3</ref> 
           <lb ed="#O"/>ubi dicunt quod finis scientiae speculativae est veritas <g ref="#dot"/> assumptum probatur quia finis scientiae huius 
           <lb ed="#O"/>est dilectio dei et proximi quia <quote xml:id="gfhtyt-d1e105-Qd1e139" source="http://scta.info/resource/mt22_40">in <choice><orig>hiis</orig><reg>his</reg></choice> duobus mandatis pendet tota 
@@ -86,19 +86,19 @@
           <lb ed="#O"/>quod non est speculativa assumptum probatur per <ref xml:id="gfhtyt-d1e105-Rd1e220"><name xml:id="gfhtyt-d1e105-Nd1e221" ref="#Augustine">augustinus</name> <title>de laude caritatis</title></ref> ubi dicit secundum 
           quod prius allegatum est quod <quote xml:id="gfhtyt-d1e105-Qd1e226">iste tenet quicquid latet et quicquid patet in divinis 
             <lb ed="#O"/>sermonibus qui caritatem servat in moribus</quote> <!-- not sure if quote ends here or continues --> ergo totus sermo divinus 
-          <lb ed="#O"/>sine <unclear>the?a</unclear> ad haec tendat ut servat homo caritatem in moribus et per consequens 
+          <lb ed="#O"/>sine <!--<unclear>-->the?a<!--</unclear>--> ad haec tendat ut servat homo caritatem in moribus et per consequens 
           <lb ed="#O"/>ut fiat bonus</p>
         
         <p xml:id="gfhtyt-d1e105-d1e241"><g ref="#pilcrow"/>4o sic finis legis est dilectio <ref xml:id="gfhtyt-d1e105-Rd1e244"><title ref="#rom">Romanos</title> 13</ref> et ple<lb ed="#O" break="no"/>nitudo 
           legis est dilectio et per consequens non est speculatio ergo lex ista 
-          <lb ed="#O"/>scilicet <unclear>theologia</unclear> non est scientia speculativa</p>
+          <lb ed="#O"/>scilicet <!--<unclear>-->theologia<!--</unclear>--> non est scientia speculativa</p>
         
-        <p xml:id="gfhtyt-d1e105-d1e256"><g ref="#pilcrow"/>5o sic tota <unclear>theologia</unclear> est lex nova et 
-          <lb ed="#O"/>antiqua sed lex <unclear>manifestum</unclear> est <g ref="#dot"/> est scientia moralis et non speculativa ergo etc</p>
+        <p xml:id="gfhtyt-d1e105-d1e256"><g ref="#pilcrow"/>5o sic tota <!--<unclear>-->theologia<!--</unclear>--> est lex nova et 
+          <lb ed="#O"/>antiqua sed lex <!--<unclear>-->manifestum<!--</unclear>--> est <g ref="#dot"/> est scientia moralis et non speculativa ergo etc</p>
         
         <p xml:id="gfhtyt-d1e105-d1e268">
           <g ref="#pilcrow"/>6o 
-          <lb ed="#O"/>sic <ref xml:id="gfhtyt-d1e105-Rd1e273"><title ref="#rom">Romanos</title> <unclear>19</unclear></ref> <quote xml:id="gfhtyt-d1e105-Qd1e279">quaecumque scripta sunt ad aedificationem nostram scripta 
+          <lb ed="#O"/>sic <ref xml:id="gfhtyt-d1e105-Rd1e273"><title ref="#rom">Romanos</title> <!--<unclear>-->19<!--</unclear>--></ref> <quote xml:id="gfhtyt-d1e105-Qd1e279">quaecumque scripta sunt ad aedificationem nostram scripta 
           sunt</quote> <pc ana="#punctuselevatus"/> aedificatio aut maxime pertinet ad mores corrigendos <g ref="#dot"/> 
           ergo propter mores corrigendo omnia scripta sunt
         </p>
@@ -106,13 +106,13 @@
         <p xml:id="gfhtyt-d1e105-d1e286">
           <g ref="#pilcrow"/>Item scribitur <ref xml:id="gfhtyt-d1e105-Rd1e289"><title ref="#iac">Iaco<lb ed="#O" break="no"/>bi</title> 
           primo</ref> <quote xml:id="gfhtyt-d1e105-Qd1e296">estote factores <g ref="#dot"/> verbi non auditores tantum</quote> ubi manifestum est quod 
-          <lb ed="#O"/><name xml:id="gfhtyt-d1e105-Nd1e302" ref="#James">apostolus</name> intendebat quod finis auditionis <unclear>sacrae</unclear> scripturae non deberet 
+          <lb ed="#O"/><name xml:id="gfhtyt-d1e105-Nd1e302" ref="#James">apostolus</name> intendebat quod finis auditionis <!--<unclear>-->sacrae<!--</unclear>--> scripturae non deberet 
           <lb ed="#O"/>esse auditio vel scientia sed bona operatio ergo theologia est propter operationem principaliter ergo 
           <lb ed="#O"/>est practica
         </p>
         <p xml:id="gfhtyt-d1e105-d1e313">
           8 sic evangelium principaliter est ad mores <choice><orig>corigen<lb ed="#O" break="no"/>dos</orig><reg>corrigen<lb ed="#O" break="no"/>dos</reg></choice> 
-          sicut patet in <unclear>spiriti</unclear> per totum et illud est pars principalissima theologiae ergo etc
+          sicut patet in <!--<unclear>-->spiriti<!--</unclear>--> per totum et illud est pars principalissima theologiae ergo etc
         </p>
         <p xml:id="gfhtyt-d1e105-d1e329">
           <lb ed="#O"/><g ref="#pilcrow"/>ad oppositum arguitur sic <ref xml:id="gfhtyt-d1e105-Rd1e333"><name xml:id="gfhtyt-d1e105-Nd1e334" ref="#Augustine">augustinus</name> 12 <title ref="#deTrinitate">de trinitate</title> in fine et 13 in principio</ref> dicit 
@@ -168,17 +168,17 @@
           <lb ed="#O"/>quia si ipsa vertebatur in statuam tunc non fuit punita sufficienter 
           <lb ed="#O"/>pro suo peccato mortali consequens <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> et consequentia patet per <ref xml:id="gfhtyt-d1e105-Rd1e536"><name xml:id="gfhtyt-d1e105-Nd1e537" ref="#Anselm">anselmum</name> <title ref="#Monologion">monologion</title> 
             <lb ed="#O"/>capitulo 70</ref> ubi dicit <quote xml:id="gfhtyt-d1e105-Qd1e546">sic nullatenus admittit ratio quod aliquis amittit 
-              <lb ed="#O"/>esse pro peccato <g ref="#dot"/> quia tunc <unclear>sicut</unclear> se haberet ante omnem culpam scilicet quando non 
-              <lb ed="#O"/>fuit et post culpam maximam et sic non discerneret <unclear>summe sapiens</unclear> 
+              <lb ed="#O"/>esse pro peccato <g ref="#dot"/> quia tunc <!--<unclear>-->sicut<!--</unclear>--> se haberet ante omnem culpam scilicet quando non 
+              <lb ed="#O"/>fuit et post culpam maximam et sic non discerneret <!--<unclear>-->summe sapiens<!--</unclear>--> 
               <lb ed="#O"/>iustitia inter illud quod millum bonum potest et mullum malum vult 
               <lb ed="#O"/>et illud quod maximum bonum potest <corr><add place="aboveLine">et</add></corr> maximum malum vult ac haec satis 
-              <lb ed="#O"/>patet quam inconveniens sit</quote> haec ille unde <unclear>manifeste</unclear> sequitur quod ille qui omnino 
+              <lb ed="#O"/>patet quam inconveniens sit</quote> haec ille unde <!--<unclear>-->manifeste<!--</unclear>--> sequitur quod ille qui omnino 
           <cb ed="#O" n="b"/><!-- 3rb -->
           desinit esse pro suo peccato non sufficienter punitur</p>
         
-        <p xml:id="gfhtyt-d1e105-d1e577"><g ref="#pilcrow"/>3o sic <title ref="#Ireg">primo regis</title> et <ref xml:id="gfhtyt-d1e105-Rd1e583"><title><unclear>ecc[?]</unclear></title> 
-          <lb ed="#O"/>46</ref> dicitur quod post mortem <unclear>samuelis</unclear> una <unclear>phyconissa</unclear> id est mulier 
-          <lb ed="#O"/>prophetans in spiritu <unclear>dyamanico</unclear> ad praeceptum <name xml:id="gfhtyt-d1e105-Nd1e599" ref="#Saul">saulis regis</name> susatavit 
+        <p xml:id="gfhtyt-d1e105-d1e577"><g ref="#pilcrow"/>3o sic <title ref="#Ireg">primo regis</title> et <ref xml:id="gfhtyt-d1e105-Rd1e583"><title><!--<unclear>-->ecc[?]<!--</unclear>--></title> 
+          <lb ed="#O"/>46</ref> dicitur quod post mortem <!--<unclear>-->samuelis<!--</unclear>--> una <!--<unclear>-->phyconissa<!--</unclear>--> id est mulier 
+          <lb ed="#O"/>prophetans in spiritu <!--<unclear>-->dyamanico<!--</unclear>--> ad praeceptum <name xml:id="gfhtyt-d1e105-Nd1e599" ref="#Saul">saulis regis</name> susatavit 
           <lb ed="#O"/><name xml:id="gfhtyt-d1e105-Nd1e603">samuelem</name> et ipse indicavit regi finem suum et filiorum suorum 
           <lb ed="#O"/>haec ille sed libro 2o de miraculis sacrae scripturae capitulo 11 probat <name xml:id="gfhtyt-d1e105-Nd1e607" ref="#Augustine">augustinus</name> quod ille 
           <lb ed="#O"/>suscitatus fuit dyabolus non <name xml:id="gfhtyt-d1e105-Nd1e613">samuel</name> per hoc quia <title ref="#Ireg">primo Regis</title> 28 post nar<lb ed="#O" break="no"/>rationem 
@@ -193,10 +193,10 @@
           <lb ed="#O"/>hoc sit manifeste falsum quod lingua loquebantur seu consuluerunt</p>
         
         <p xml:id="gfhtyt-d1e105-d1e673"><g ref="#pilcrow"/>5to 
-          sic <title ref="#ion">Ionem</title> dicit translatio <unclear>Iero?</unclear> <unclear>claman?t</unclear> <name xml:id="gfhtyt-d1e105-Nd1e683" ref="#Jonah">Ionas</name> adhuc tres 
+          sic <title ref="#ion">Ionem</title> dicit translatio <!--<unclear>-->Iero?<!--</unclear>--> <!--<unclear>-->claman?t<!--</unclear>--> <name xml:id="gfhtyt-d1e105-Nd1e683" ref="#Jonah">Ionas</name> adhuc tres 
           <lb ed="#O"/>dies et ninive subvertetur <corr><add place="marginRight">cum tamen</add></corr> subversa non fuerit <g ref="#slash"/> Alia translatio 
-          <lb ed="#O"/>septuaginta <unclear>interpretrem</unclear> habet aliquod <unclear>xl <!-- 70 days --></unclear> dies et minue sub<lb ed="#O" break="no"/>litetur 
-          quorum <unclear>alterum</unclear> est falsum quia non clamantur utrumque quia tunc nullus credi<lb ed="#O" break="no"/>disset 
+          <lb ed="#O"/>septuaginta <!--<unclear>-->interpretrem<!--</unclear>--> habet aliquod <!--<unclear>-->xl <!-- 70 days --><!--</unclear>--> dies et minue sub<lb ed="#O" break="no"/>litetur 
+          quorum <!--<unclear>-->alterum<!--</unclear>--> est falsum quia non clamantur utrumque quia tunc nullus credi<lb ed="#O" break="no"/>disset 
           ei</p>
         
         <p xml:id="gfhtyt-d1e105-d1e711"><g ref="#pilcrow"/>6o sit dominus in evangelio narrat de filio prodigo et 
@@ -212,9 +212,9 @@
           <lb ed="#O"/>oppositum principalis quaestionis facta</p>
         
         <p xml:id="gfhtyt-d1e105-d1e751"><g ref="#pilcrow"/>Ad istum articulum dico quod scientia accipitur 
-          <lb ed="#O"/><choice><orig>3r</orig><reg>tripliciter</reg></choice> uno modo pro evidenti certitudine complexa alicuius <unclear>veri</unclear> circa quod non potest habens 
+          <lb ed="#O"/><choice><orig>3r</orig><reg>tripliciter</reg></choice> uno modo pro evidenti certitudine complexa alicuius <!--<unclear>-->veri<!--</unclear>--> circa quod non potest habens 
           <lb ed="#O"/>illam certitudinem errare stante causa suae evidentiae et isto modo sumuntur 
-          <lb ed="#O"/>principia communia et dignitates et sic scit homo se <unclear>muere</unclear> et se nolle 
+          <lb ed="#O"/>principia communia et dignitates et sic scit homo se <!--<unclear>-->muere<!--</unclear>--> et se nolle 
           <lb ed="#O"/>decipi et se nolle ese bonum et alia de quibus loquitur <ref xml:id="gfhtyt-d1e105-Rd1e770"><name xml:id="gfhtyt-d1e105-Nd1e771" ref="#Augustine">augustinus</name> in <title ref="#deTrinitate">de trinitate</title> capitulo 3</ref> 
           <lb ed="#O"/>et secundum hunc modum est scientia de actibus sensibus per se sicut de albedine et 
           <lb ed="#O"/>ingredine et aliis et sic non est scientia de substantis sensibilibus extrinsecis 
@@ -223,7 +223,7 @@
         <p xml:id="gfhtyt-d1e105-d1e787">2o modo accipitur 
           <lb ed="#O"/>scientia pro evidenti notitia complexa alicuius viri circa quod potest esse error stan<lb ed="#O" break="no"/>te 
           causa suae evidentiae circa quod tamen non potest esse error stantibus omnibus 
-          <lb ed="#O"/>rebus naturalibus in dispositione cursus communis et sic sumuntur <unclear>secundae</unclear> sensibiles et 
+          <lb ed="#O"/>rebus naturalibus in dispositione cursus communis et sic sumuntur <!--<unclear>-->secundae<!--</unclear>--> sensibiles et 
           <lb ed="#O"/>illo modo locuntur omnes philosohi de scire</p> 
         
         <p xml:id="gfhtyt-d1e105-d1e800">3o modo accipitur scire communius pro ad<lb ed="#O" break="no"/>haesione 
@@ -235,7 +235,7 @@
         
         <p xml:id="gfhtyt-d1e105-d1e823"><g ref="#pilcrow"/>Per hoc dico ad articulum loquendo primo modo ista sacra scrioptura non est scientia 
           <lb ed="#O"/>nec in secundo modo nisi forte in aliquibus paucis partibus a quibus non denomina<lb ed="#O" break="no"/>tur 
-          tota facultas <g ref="#dot"/> sed secundum modo est scientia sicut ostendunt auctoritates <unclear>alius</unclear></p>
+          tota facultas <g ref="#dot"/> sed secundum modo est scientia sicut ostendunt auctoritates <!--<unclear>-->alius<!--</unclear>--></p>
         
         <p xml:id="gfhtyt-d1e105-d1e834"><g ref="#pilcrow"/>ad primum argumentum concedo quod principia huius scientiae saltem multas credi<lb ed="#O" break="no"/>ta 
           tantum ita quod non sunt scita primo modo vel secundo quia sunt articuli fidei 
@@ -243,7 +243,7 @@
           <lb ed="#O"/>est articulus fidei <g ref="#dot"/> Intendo per hoc nomen deus significatum commune omnibus scilicet illud quo non 
           <lb ed="#O"/>est aliquid melius quia hoc scitur ex naturalibus istam sententiam dicit <ref xml:id="gfhtyt-d1e105-Rd1e848"><name xml:id="gfhtyt-d1e105-Nd1e849" ref="#Aquinas">thomas</name> et bene 
             <lb ed="#O"/>prima parte summae quaestione 4a articulo 2o</ref> sed certe intendendo per hoc nomen deus sicut 
-          <lb ed="#O"/>christiani intelligunt scilicet ens <unclear>optimum</unclear> quo <choice><orig>nichil</orig><reg>nihil</reg></choice> magis vel melius 
+          <lb ed="#O"/>christiani intelligunt scilicet ens <!--<unclear>-->optimum<!--</unclear>--> quo <choice><orig>nichil</orig><reg>nihil</reg></choice> magis vel melius 
           <lb ed="#O"/>cogitari potest sic haec propositio deus est <g ref="#dot"/> est articulus fidei qui non potest sci<lb ed="#O" break="no"/>ri 
           ex naturalibus <g ref="#dot"/> et ideo concedo conclusione huius argumenti scilicet quod haec facultas non 
           <lb ed="#O"/>est scientia primo modo vel secundo sed 3o modo et eandem conlusione porbat 7m principale et 
@@ -260,8 +260,8 @@
           <lb ed="#O"/>ego sum primogenitus tuus <name xml:id="gfhtyt-d1e105-Nd1e925" ref="#Esau">esau</name> <g ref="#dot"/> et similiter non asserit auctor scripturae 
           <lb ed="#O"/><ref xml:id="gfhtyt-d1e105-Rd1e931"><title ref="#iudic">Iudicum</title> 10</ref> quod <quote xml:id="gfhtyt-d1e105-Qd1e936">lingua ierunt ut unguerent super se regem </quote> etc quae 
           ibi dupliciter solum asserit ionatam filium <name xml:id="gfhtyt-d1e105-Nd1e939">iezoboal</name> istam parabolam 
-          <lb ed="#O"/>ad duos <unclear>vi?bis</unclear> sichem et <unclear>vib?</unclear> mello <g ref="#dot"/> acclamasse quando <unclear>ste<lb ed="#O" break="no"/>tit</unclear> 
-          in vertice montis garizini contra sichem et ita est e <unclear>inn?rabilibus</unclear> 
+          <lb ed="#O"/>ad duos <!--<unclear>-->vi?bis<!--</unclear>--> sichem et <!--<unclear>-->vib?<!--</unclear>--> mello <g ref="#dot"/> acclamasse quando <!--<unclear>-->ste<lb ed="#O" break="no"/>tit<!--</unclear>--> 
+          in vertice montis garizini contra sichem et ita est e <!--<unclear>-->inn?rabilibus<!--</unclear>--> 
           <lb ed="#O"/>talibus</p>
         
         <p xml:id="gfhtyt-d1e105-d1e961"><g ref="#pilcrow"/>Si aut loquimur de hiis quae continentur in alia facultate tamquam asser<lb ed="#O" break="no"/>ta 
@@ -275,7 +275,7 @@
         <p xml:id="gfhtyt-d1e105-d1e1005"><g ref="#pilcrow"/>ad 3 dico quia auctor per <name xml:id="gfhtyt-d1e105-Nd1e1008">sammelem</name>
           <pb ed="#O" n="3-v"/>
           <cb ed="#O" n="a"/>
-          <lb ed="#O"/>intelligit <unclear>dyabolum</unclear> habentem corpus <unclear>s?i</unclear> assensum simili corpori <name xml:id="gfhtyt-d1e105-Nd1e1021">samuleis</name> sicut dicit <name xml:id="gfhtyt-d1e105-Nd1e1023" ref="#Augustine">augustinus</name></p>
+          <lb ed="#O"/>intelligit <!--<unclear>-->dyabolum<!--</unclear>--> habentem corpus <!--<unclear>-->s?i<!--</unclear>--> assensum simili corpori <name xml:id="gfhtyt-d1e105-Nd1e1021">samuleis</name> sicut dicit <name xml:id="gfhtyt-d1e105-Nd1e1023" ref="#Augustine">augustinus</name></p>
         
         <p xml:id="gfhtyt-d1e105-d1e1026"><lb ed="#O"/><g ref="#pilcrow"/>ad <ref xml:id="gfhtyt-d1e105-Rd1e1030">4m scilicet quod lingua fecerunt consilium</ref> etc <g ref="#dot"/> dictum in ratione ad 
           <lb ed="#O"/>secundum argumentum quoniam auctor scripturae non asserit hic sed hoc esset dictum a ionatam 
@@ -286,7 +286,7 @@
           <lb ed="#O"/>quod alia translatio quae habet quadraginta dies simul vera est secundum suum intellectum nec 
           <lb ed="#O"/>intelligitur ad litteram <g ref="#dot"/> unde <name xml:id="gfhtyt-d1e105-Nd1e1056" ref="#Augustine">augustinus</name> 18 <title ref="#CityOfGod">de civitate dei</title> capitulo 43 dicit de isto dicto 
           <lb ed="#O"/>quod duabus translationibus spiritus sanctus per hos scribentis loquebatur et 
-          <lb ed="#O"/>potuit alia dicere et idem significare et ita utraque translati verum secundum <unclear>omnium</unclear> 
+          <lb ed="#O"/>potuit alia dicere et idem significare et ita utraque translati verum secundum <!--<unclear>-->omnium<!--</unclear>--> 
           <lb ed="#O"/>intellectum unde <name xml:id="gfhtyt-d1e105-Nd1e1071" ref="#Augustine">augustinus</name> ibi potuit unam expositionem moralem de hoc ad ex<lb ed="#O" break="no"/>cludendum 
           illam contrarietatem</p>
         
@@ -299,10 +299,10 @@
         <p xml:id="gfhtyt-d1e105-d1e1101">Utrum vita contemplativa sit nobilior quam activa <g ref="#dot"/></p>
         
         <p xml:id="gfhtyt-d1e105-d1e1105">arguitur primo 
-          <lb ed="#O"/>quod activa sit nobilior quia nullus <choice><orig>alico</orig><reg>aliquo</reg></choice> praecepto <unclear>tenetur</unclear> 
+          <lb ed="#O"/>quod activa sit nobilior quia nullus <choice><orig>alico</orig><reg>aliquo</reg></choice> praecepto <!--<unclear>-->tenetur<!--</unclear>--> 
           <lb ed="#O"/>magis bonum sive melius dimittere propter minus bonum 
           <lb ed="#O"/>sed homo tenetur dimittere contemplationem propter actionem ergo actio meliorem contemplatine 
-          <lb ed="#O"/>et per consequens vita activa est melior quam contemplativa maior <g ref="#dot"/> patet quia <unclear>a?ter</unclear> 
+          <lb ed="#O"/>et per consequens vita activa est melior quam contemplativa maior <g ref="#dot"/> patet quia <!--<unclear>-->a?ter<!--</unclear>--> 
           <lb ed="#O"/>praeceptum <g ref="#dot"/> obligaret aliquem ad diminutionem sui meriti quod non 
           <lb ed="#O"/>videtur vera minor <g ref="#dot"/> patet posito quod aliquis qui contemplatur percipiat aliquem hominem 
           <lb ed="#O"/>moriturum nisi ipse sibi subveniat et quod ipse possit ei sub<lb ed="#O" break="no"/>venire <g ref="#dot"/> 
@@ -312,29 +312,29 @@
         <p xml:id="gfhtyt-d1e105-d1e1144">2o per activam vitam potest homo magis bonum facere et 
           <lb ed="#O"/>pluribus proficere quam per contemplationem ergo activa est melior <g ref="#dot"/> consequentia 
           <lb ed="#O"/>probatur per <ref xml:id="gfhtyt-d1e105-Rd1e1152"><name xml:id="gfhtyt-d1e105-Nd1e1153" ref="#Aristotle">philosophum</name> primo <title ref="#Ethics">ethicorum</title> capitulo 1</ref> ubi dicit sic <quote xml:id="gfhtyt-d1e105-Qd1e1160">animale quidem uni soli vi<lb ed="#O" break="no"/>ro 
-            <unclear>melius <!-- meus --></unclear> a et <unclear>divinius</unclear> genti et civitati</quote> haec illi ubi patet quod bonum illud 
+            <!--<unclear>-->melius <!-- meus --><!--</unclear>--> a et <!--<unclear>-->divinius<!--</unclear>--> genti et civitati</quote> haec illi ubi patet quod bonum illud 
           <lb ed="#O"/>quod communicatur pluribus <pc ana="#punctuselevatus"/> melius est quam bonum partitive assumptum probatur quia 
-          <lb ed="#O"/>per praedicationem et informationem et <unclear>elemeosinarum <!-- eleemeosinarum --></unclear> largitionem quae sunt 
-          <lb ed="#O"/>actiones vitae activae potest homo prodesse pluribus sed <unclear>s?o?a</unclear> Iusticras 
+          <lb ed="#O"/>per praedicationem et informationem et <!--<unclear>-->elemeosinarum <!-- eleemeosinarum --><!--</unclear>--> largitionem quae sunt 
+          <lb ed="#O"/>actiones vitae activae potest homo prodesse pluribus sed <!--<unclear>-->s?o?a<!--</unclear>--> Iusticras 
           <lb ed="#O"/>sibi soli prodest sicut dicit <ref xml:id="gfhtyt-d1e105-Rd1e1189"><name xml:id="gfhtyt-d1e105-Nd1e1190" ref="#Jerome">Ieromus</name> in prologo bibliae capitulo 4</ref> intelligit 
-          <lb ed="#O"/>per <unclear>scam?</unclear> rusticitatem vitam contemplationem ergo <unclear>activa <!-- dbcheck --></unclear> est melior</p>
+          <lb ed="#O"/>per <!--<unclear>-->scam?<!--</unclear>--> rusticitatem vitam contemplationem ergo <!--<unclear>-->activa <!-- dbcheck --><!--</unclear>--> est melior</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1203"><g ref="#pilcrow"/>3o una operatio vitae activae melior est quam una actio vitae ergo 
           <lb ed="#O"/>contemplativae omnibus conditionibus existentibus paribus ergo tota vita melior 
           <lb ed="#O"/>consequentia probatur quia eadem est proportio vitae ad vitam et actionis ad actionem 
           <lb ed="#O"/>assumptum probatur quia in una actione vitae activae additur operatio extrinseca 
-          <lb ed="#O"/>omnia in <unclear>do?dae</unclear> sunt paria ut ponatur in operatione et in contemplatione 
+          <lb ed="#O"/>omnia in <!--<unclear>-->do?dae<!--</unclear>--> sunt paria ut ponatur in operatione et in contemplatione 
           <lb ed="#O"/>in actione ergo est magis meritum vel aliter operatio extrinseca <choice><orig>nichil</orig><reg>nihil</reg></choice> 
           <lb ed="#O"/>prodesset</p>
         
-        <p xml:id="gfhtyt-d1e105-d1e1226">4to homo magis tenetur ad activam saltem si <unclear>sit</unclear> 
+        <p xml:id="gfhtyt-d1e105-d1e1226">4to homo magis tenetur ad activam saltem si <!--<unclear>-->sit<!--</unclear>--> 
           <lb ed="#O"/>dives et maxime si sit dispensator bonorum ecclesiae quam ad 
           <lb ed="#O"/>contemplationem ergo faciens secundum illam magis meretur vel aliter homo qui o<lb ed="#O" break="no"/>peratur 
           ex noto non plus meretur in operando quam operans con<lb ed="#O" break="no"/>silia 
           sine voto quod est contra <ref xml:id="gfhtyt-d1e105-Rd1e1239"><name xml:id="gfhtyt-d1e105-Nd1e1240" ref="#Anselm">anselmum</name> in libro <title>de similitudinibus</title> capitulo 83</ref> assumptum 
           <lb ed="#O"/>patet quia rector non tenetur ad contemplativam ut videtur et tenetur <g ref="#dot"/> ad activam 
           <lb ed="#O"/>quia tenetur informare subditos et pascere sicut patet <ref xml:id="gfhtyt-d1e105-Rd1e1252"><title ref="#ez">ezechielis</title> 
-            <lb ed="#O"/>34</ref> ubi dicitur sic <g ref="#dot"/> <quote xml:id="gfhtyt-d1e105-Qd1e1262" source="http://scta.info/resource/ez34_2">vae pastoribus <unclear>israel</unclear> qui pascebant semet 
+            <lb ed="#O"/>34</ref> ubi dicitur sic <g ref="#dot"/> <quote xml:id="gfhtyt-d1e105-Qd1e1262" source="http://scta.info/resource/ez34_2">vae pastoribus <!--<unclear>-->israel<!--</unclear>--> qui pascebant semet 
               <lb ed="#O"/>ipsos nomine greges pascuntur a pastoribus</quote> et additur post 
           <lb ed="#O"/><quote xml:id="gfhtyt-d1e105-Qd1e1270" source="http://scta.info/resource/ez34_3"> <!-- and #ez34_4 -->gregem meum non pascebatis <g ref="#dot"/> quod infirmum fuit non consolidastis</quote> 
           <lb ed="#O"/>etc <g ref="#dot"/> et post pauca <quote xml:id="gfhtyt-d1e105-Qd1e1281" source="http://scta.info/resource/ez34_10">ecce ego super pastores dicit dominus et requi<lb ed="#O" break="no"/>ram 
@@ -342,7 +342,7 @@
           ad vitam activam</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1294"><g ref="#pilcrow"/>5to vita apostolorum fuit optima <choice><orig>sicud</orig><reg>sicut</reg></choice> 
-          <lb ed="#O"/>tenet ecclesia cum secuti fuerunt vestigia <unclear>christi</unclear> <g ref="#dot"/> in praeceptis et in 
+          <lb ed="#O"/>tenet ecclesia cum secuti fuerunt vestigia <!--<unclear>-->christi<!--</unclear>--> <g ref="#dot"/> in praeceptis et in 
           <lb ed="#O"/>consiliis sed vita eorum fuit partim practica quia <name xml:id="gfhtyt-d1e105-Nd1e1310" ref="#Paul">paulus</name> laboravit 
           <lb ed="#O"/>manibus sicut ipse dicit <ref xml:id="gfhtyt-d1e105-Rd1e1315"><title ref="#Icor">prima ad corinthios</title> 4</ref> et idem <ref xml:id="gfhtyt-d1e105-Rd1e1320"><title ref="#rom">ad Romanos</title> 15</ref> <quote xml:id="gfhtyt-d1e105-Qd1e1325" source="http://scta.info/resource/rom15_25">nunc igitur 
             <lb ed="#O"/>proficiscar ierusalem ministrare sanctis</quote> et certum est quod vita apostolorum non 
@@ -352,7 +352,7 @@
         
         <p xml:id="gfhtyt-d1e105-d1e1339"><g ref="#pilcrow"/>6 ducens vitam 
           <lb ed="#O"/>mere contemplativam sicut religiosus debet secundum rectam rationem eligere 
-          <lb ed="#O"/>vitam praelatorum quae pro magna parte est activa ergo iuxta <unclear>vita <!-- vitam --></unclear> est me<lb ed="#O" break="no"/>lior 
+          <lb ed="#O"/>vitam praelatorum quae pro magna parte est activa ergo iuxta <!--<unclear>-->vita <!-- vitam --><!--</unclear>--> est me<lb ed="#O" break="no"/>lior 
           sed non est ratione contemplationis ergo ratione partis activae quod est oppositum</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1353"><lb ed="#O"/><g ref="#pilcrow"/>7mo per totum evangelium christus reprobat non bene operantes <g ref="#dot"/> erga proximos 
@@ -360,12 +360,12 @@
           <lb ed="#O"/>malum sicut <ref xml:id="gfhtyt-d1e105-Rd1e1366"><name xml:id="gfhtyt-d1e105-Nd1e1367" ref="#Aristotle">philosophus</name> dicit <title ref="#Topics">topicis</title> 1</ref></p>
         
         <p xml:id="gfhtyt-d1e105-d1e1374"><g ref="#pilcrow"/>8 merces aeterna fidelium 
-          <lb ed="#O"/>magis debet <sic>communsurare</sic> operi quam <unclear>contemplationi</unclear> ergo opus melius est assumptum 
-          <lb ed="#O"/>patet in primo <title ana="#ap"><unclear>apocalypsis</unclear></title> <quote xml:id="gfhtyt-d1e105-Qd1e1389" source="http://scta.info/resource/ap22_12">reddit unicuique secundum opera sua</quote> idem <ref xml:id="gfhtyt-d1e105-Rd1e1392"><title ref="#rom">Romanos</title> 2</ref> et unus<lb ed="#O" break="no"/>quisque 
-          secundum <unclear>?prium</unclear> <g ref="#dot"/> laborem mercedem recipiet ergo vita est melior 
+          <lb ed="#O"/>magis debet <sic>communsurare</sic> operi quam <!--<unclear>-->contemplationi<!--</unclear>--> ergo opus melius est assumptum 
+          <lb ed="#O"/>patet in primo <title ana="#ap"><!--<unclear>-->apocalypsis<!--</unclear>--></title> <quote xml:id="gfhtyt-d1e105-Qd1e1389" source="http://scta.info/resource/ap22_12">reddit unicuique secundum opera sua</quote> idem <ref xml:id="gfhtyt-d1e105-Rd1e1392"><title ref="#rom">Romanos</title> 2</ref> et unus<lb ed="#O" break="no"/>quisque 
+          secundum <!--<unclear>-->?prium<!--</unclear>--> <g ref="#dot"/> laborem mercedem recipiet ergo vita est melior 
           <lb ed="#O"/>quam contemplativa</p>
         
-        <p xml:id="gfhtyt-d1e105-d1e1406"><g ref="#pilcrow"/>Oppositum <ref xml:id="gfhtyt-d1e105-Rd1e1409"><title ref="#lc">lucas</title> 10</ref> <name xml:id="gfhtyt-d1e105-Nd1e1414" ref="#MaryMagdelene">maria</name> optimam elegit quae <unclear>non</unclear> 
+        <p xml:id="gfhtyt-d1e105-d1e1406"><g ref="#pilcrow"/>Oppositum <ref xml:id="gfhtyt-d1e105-Rd1e1409"><title ref="#lc">lucas</title> 10</ref> <name xml:id="gfhtyt-d1e105-Nd1e1414" ref="#MaryMagdelene">maria</name> optimam elegit quae <!--<unclear>-->non<!--</unclear>--> 
           <lb ed="#O"/>auferetur ab ea super quod dicit <name xml:id="gfhtyt-d1e105-Nd1e1421" ref="#Augustine">augustinus</name> alloquens <name xml:id="gfhtyt-d1e105-Nd1e1425">martham</name> sic non tu 
           <lb ed="#O"/>malam sed illa meliorem</p>
         
@@ -380,16 +380,16 @@
         <p xml:id="gfhtyt-d1e105-d1e1469"><g ref="#pilcrow"/>praeterea <ref xml:id="gfhtyt-d1e105-Rd1e1472"><name xml:id="gfhtyt-d1e105-Nd1e1473" ref="#GregoryGreat">gregorius</name> super eodem</ref> non haec mala est sed illa melior est</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1478"><lb ed="#O"/><g ref="#pilcrow"/>praeterea observantia primi mandati est melior observatione aliorum 
-          <lb ed="#O"/>mandatorum secundum quod huiusmodi <unclear>sunt</unclear> sed observantia primi mandati 
+          <lb ed="#O"/>mandatorum secundum quod huiusmodi <!--<unclear>-->sunt<!--</unclear>--> sed observantia primi mandati 
           <lb ed="#O"/>pertinet ad contemplationem manifestum est diligens deum tuum ex toto corde 
           <lb ed="#O"/>tuo et observantia aliorum mandatorum pertinet ad vitam activam 
-          <lb ed="#O"/>manifestum est inducendo non <unclear>furabis <!-- though shall not steal --></unclear> non <unclear>metabis <!-- thou shall not lie? --></unclear> et sic de ceteris 
+          <lb ed="#O"/>manifestum est inducendo non <!--<unclear>-->furabis <!-- though shall not steal --><!--</unclear>--> non <!--<unclear>-->metabis <!-- thou shall not lie? --><!--</unclear>--> et sic de ceteris 
           <lb ed="#O"/>ergo etc</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1504"><g ref="#pilcrow"/>praeterea <ref xml:id="gfhtyt-d1e105-Rd1e1507"><name xml:id="gfhtyt-d1e105-Nd1e1508" ref="#Aristotle">philosophus</name> 10 <title ref="#Ethics">ethicorum</title> capitulo 8</ref> optima operatio hominis est operatio 
-          <lb ed="#O"/>intellectus intrinseca scilicet <unclear>fe?tas</unclear> speculativa</p>
+          <lb ed="#O"/>intellectus intrinseca scilicet <!--<unclear>-->fe?tas<!--</unclear>--> speculativa</p>
         
-        <p xml:id="gfhtyt-d1e105-d1e1520"><g ref="#pilcrow"/>praeterea <name xml:id="gfhtyt-d1e105-Nd1e1523"><unclear>ib?m?</unclear></name> vita quae consistit in speculatione 
+        <p xml:id="gfhtyt-d1e105-d1e1520"><g ref="#pilcrow"/>praeterea <name xml:id="gfhtyt-d1e105-Nd1e1523"><!--<unclear>-->ib?m?<!--</unclear>--></name> vita quae consistit in speculatione 
           <lb ed="#O"/>est melior quam vita quae secundum homine scilicet activa</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1529"><g ref="#pilcrow"/>praeterea capitulo 10 14 est 
@@ -397,19 +397,19 @@
           est sapies scilicet qui contemplatur aeterna ut ibidem declarat ergo 
           <lb ed="#O"/>etc</p>
         
-        <p xml:id="gfhtyt-d1e105-d1e1539"><g ref="#pilcrow"/>ad istum articulum supposita significatione terminorum quam ponit <unclear>augustinus <!-- dbcheck --></unclear> 
+        <p xml:id="gfhtyt-d1e105-d1e1539"><g ref="#pilcrow"/>ad istum articulum supposita significatione terminorum quam ponit <!--<unclear>-->augustinus <!-- dbcheck --><!--</unclear>--> 
           <lb ed="#O"/>13 <title ref="#deTrinitate">de trinitate</title> in principio scilicet quod vita contemplativa quam ipse vocat effectum 
-          <lb ed="#O"/>portionis superioris intellectus <unclear>sit <!-- dbcheck --></unclear> contemplatio aeternorum et vita ac<lb ed="#O" break="no"/>tiva 
-          quam ipse vocat effectum portionis <unclear>inferioris <!-- dbcheck against inferiorum --></unclear> mentis humanae sit 
+          <lb ed="#O"/>portionis superioris intellectus <!--<unclear>-->sit <!-- dbcheck --><!--</unclear>--> contemplatio aeternorum et vita ac<lb ed="#O" break="no"/>tiva 
+          quam ipse vocat effectum portionis <!--<unclear>-->inferioris <!-- dbcheck against inferiorum --><!--</unclear>--> mentis humanae sit 
           <lb ed="#O"/>cognitio ordinandi temporalia et per quam illa actu rectae ordinantur sic 
           <lb ed="#O"/>dico quod contemplativa vita est quae deum informis cuius finis est 
-          <lb ed="#O"/>speculatio tantum <unclear>q?us</unclear> erat philosophorum vita <g ref="#dot"/> et alia est vita contemplativa 
+          <lb ed="#O"/>speculatio tantum <!--<unclear>-->q?us<!--</unclear>--> erat philosophorum vita <g ref="#dot"/> et alia est vita contemplativa 
           <lb ed="#O"/>formata causatae cuius finis est contemplatio cum amore contemplati et 
           <lb ed="#O"/>haec est vita christianorum</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1581"><g ref="#pilcrow"/>Simili modo dico quod duplex est activa 
           <lb ed="#O"/>vita <g ref="#dot"/> formis et formata loquendo secundo modo de vita contemplativa 
-          <lb ed="#O"/>christianorum dico quod aliquam <g ref="#dot"/> sic esse contemplativam est <unclear>dicentis</unclear> vel quia semper 
+          <lb ed="#O"/>christianorum dico quod aliquam <g ref="#dot"/> sic esse contemplativam est <!--<unclear>-->dicentis<!--</unclear>--> vel quia semper 
           <lb ed="#O"/>intendit contemplationem pro posse nisi quando pro posse nisi quando excusatur ab actionibus naturalibus 
           <lb ed="#O"/><choice><orig>neccessariis</orig><reg>necessariis</reg></choice> scilicet sompno et refectione et talis vita est religiosorum per<lb ed="#O" break="no"/>fectorum 
           <g ref="#dot"/> alio modo quia ipsa principaliter intendit contemplationem et finaliter admis<lb ed="#O" break="no"/>cendo 
@@ -421,15 +421,15 @@
           <lb ed="#O"/>4o arguit de libro <title ref="#ez">ezechielis</title> quod pastores tenentur vestiare infirmes 
           <lb ed="#O"/>et pascere esurientes etc Isto modo sicut fecerunt prophetae et apostoli 
           <lb ed="#O"/>et nunc boni pastores in ecclesia faciunt et certe ista vita est 
-          <lb ed="#O"/>optima in homine viatore propter <unclear>contemplationem</unclear> suae nullae corruptae quia 
-          <lb ed="#O"/>enim non potest continue contemplari <g ref="#dot"/> indiget <g ref="#dot"/> ideo <unclear>tempore</unclear> recreationis 
-          <lb ed="#O"/>et certe in <unclear>tempore</unclear> recreationis magis meretur quam religiosus in <unclear>tempore</unclear> re<lb ed="#O" break="no"/>creationis 
+          <lb ed="#O"/>optima in homine viatore propter <!--<unclear>-->contemplationem<!--</unclear>--> suae nullae corruptae quia 
+          <lb ed="#O"/>enim non potest continue contemplari <g ref="#dot"/> indiget <g ref="#dot"/> ideo <!--<unclear>-->tempore<!--</unclear>--> recreationis 
+          <lb ed="#O"/>et certe in <!--<unclear>-->tempore<!--</unclear>--> recreationis magis meretur quam religiosus in <!--<unclear>-->tempore<!--</unclear>--> re<lb ed="#O" break="no"/>creationis 
           quia occupationem in melioribus actionibus habet et forte propter eam<lb ed="#O" break="no"/>dem 
           causam magis meretur contemplando quia magis potest perservare et 
           <lb ed="#O"/>feruentius propter meliorem dispositionem corporis quam habet ex meliori re<lb ed="#O" break="no"/>creatione 
           unde patet quod ista vita non est melior quam illa vita in via<lb ed="#O" break="no"/>tore 
-          quae est totaliter contemplativa per posse <g ref="#dot"/> <unclear>et</unclear> vita religiosorum propter 
-          <lb ed="#O"/>hoc quod eius pars activa est melior quam contemplativa sed <unclear>quia</unclear> est me<lb ed="#O" break="no"/>lior 
+          quae est totaliter contemplativa per posse <g ref="#dot"/> <!--<unclear>-->et<!--</unclear>--> vita religiosorum propter 
+          <lb ed="#O"/>hoc quod eius pars activa est melior quam contemplativa sed <!--<unclear>-->quia<!--</unclear>--> est me<lb ed="#O" break="no"/>lior 
           quam vita quasi otiosa scilicet vita religiosorum quo ad tempus suae 
           <lb ed="#O"/>recreationis quia in illo tempore sunt fere otiosi per hoc dico ad articulum 
           <lb ed="#O"/>quaestionis loquendo de vita contemplativa formata et hoc sive primo modo sive secundo modo 
@@ -441,7 +441,7 @@
         
         <p xml:id="gfhtyt-d1e105-d1e1690"><lb ed="#O"/><g ref="#pilcrow"/>Ad primum argumentum dico quod numquam propter activam vitam tenetur homo dimittere 
           <lb ed="#O"/>contemplationem sed concedo quod aliquando tenetur homo amittere contemplationem sed dico 
-          quod illa actio <unclear>pertineat</unclear> tunc ad contemplationem si ille agens rectissime in<lb ed="#O" break="no"/>tendat 
+          quod illa actio <!--<unclear>-->pertineat<!--</unclear>--> tunc ad contemplationem si ille agens rectissime in<lb ed="#O" break="no"/>tendat 
           non operatur nisi intendendo contemplari actione contemplata <choice><orig>sicud</orig><reg>sicut</reg></choice> 
           <lb ed="#O"/>facit <name xml:id="gfhtyt-d1e105-Nd1e1707">boetius</name> praelatus pluriens et habendo illam intentionem in agendo tantum 
           <lb ed="#O"/>meretur Dico in tempore actionis talis sicut prius meruit in contemplatione 
@@ -451,8 +451,8 @@
           <lb ed="#O"/>certe praeceptum esset per se causa diminutionis sui meriti quod non 
           <lb ed="#O"/>credo sanum dicere <g ref="#dot"/> Et si tu dicas si ista actio talis dimittentis 
           contemplationem ex praecepto pertineret ad vitam contemplativam 
-          <lb ed="#O"/>ergo posito quod illa actione completa <unclear>concurrere</unclear> casus consimilis ubi ex praecepto 
-          teneretur operari et post illum <unclear>statim</unclear> alius <g ref="#dot"/> consimilis casus et sic per totam 
+          <lb ed="#O"/>ergo posito quod illa actione completa <!--<unclear>-->concurrere<!--</unclear>--> casus consimilis ubi ex praecepto 
+          teneretur operari et post illum <!--<unclear>-->statim<!--</unclear>--> alius <g ref="#dot"/> consimilis casus et sic per totam 
           <lb ed="#O"/>vitam suam Quaeritur dicis tu quod haec vita foret contemplativa etiam esset 
           <lb ed="#O"/>vita alia tunc contemplativa cuius nulla pars in tempore esset contemplatio consequens <choice><orig>in<lb ed="#O" break="no"/>possibile</orig><reg>im<lb ed="#O" break="no"/>possibile</reg></choice></p>
         
@@ -461,23 +461,23 @@
           <lb ed="#O"/>contempletur deum per cuius saltem dirigendo actionem eius ad ipsum 
           <lb ed="#O"/>propter eius amorem unde argumentum non probat plus nisi quod possibile est aliquam vitam 
           <lb ed="#O"/>esse contemplativa et tamen quod pro maiori parte temporis vitae suae in 
-          <lb ed="#O"/><unclear reason="smudged">??em</unclear> et concedo conclusionem et certe addo unum quod homo confirmat quod quilibet
+          <lb ed="#O"/><!--<unclear reason="smudged">-->??em<!--</unclear>--> et concedo conclusionem et certe addo unum quod homo confirmat quod quilibet
           <pb ed="#O" n="4-r"/>
           <cb ed="#O" n="a"/>
           <lb ed="#O"/>perfectus faciens talem actionem absque interruptione actionis potest 
           <lb ed="#O"/>habere interruptionem cogitationis quasi momentaneam ut per talia 
           <lb ed="#O"/>momenta in agendo saltem deum contempletur et fortassis simul potest 
-          <lb ed="#O"/>deum contemplari et actionem cogitare licet non ita distincta sicut <unclear>oim</unclear> hoc 
+          <lb ed="#O"/>deum contemplari et actionem cogitare licet non ita distincta sicut <!--<unclear>-->oim<!--</unclear>--> hoc 
           <lb ed="#O"/>quod ipse agat pluries non facit vitam contemplativam non esse si 
           <lb ed="#O"/>ipse velit bonam intentionem habere.</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1783"><g ref="#pilcrow"/>Ad 2m dico quod homo non 
           <lb ed="#O"/>potest tantum proficere per activam sicut per contemplationem <choice><orig>ymmo</orig><reg>immo</reg></choice> magis 
-          <lb ed="#O"/>potest per contemplationem proficere scilicet <unclear>praedicando</unclear> quae sunt actiones non 
+          <lb ed="#O"/>potest per contemplationem proficere scilicet <!--<unclear>-->praedicando<!--</unclear>--> quae sunt actiones non 
           <lb ed="#O"/>viles vitae contemplative sicut planus est ex vita christi Et 
           <lb ed="#O"/><name xml:id="gfhtyt-d1e105-Nd1e1800" ref="#JohnTheBaptist">Iohannis baptistae</name> unde per talem vitam contemplativam potest homo magis mer<lb ed="#O" break="no"/>eri 
           quam per contemplativam tantum scilicet quae solum est contemplativa quae vocat 
-          <lb ed="#O"/><name xml:id="gfhtyt-d1e105-Nd1e1806" ref="#Jerome">Ieromus</name> <unclear>scientiam</unclear> rusticitatem ubi allegatur et sic verum dicit <sic>dicit</sic> <name xml:id="gfhtyt-d1e105-Nd1e1814" ref="#Jerome">Ieromus</name> 
+          <lb ed="#O"/><name xml:id="gfhtyt-d1e105-Nd1e1806" ref="#Jerome">Ieromus</name> <!--<unclear>-->scientiam<!--</unclear>--> rusticitatem ubi allegatur et sic verum dicit <sic>dicit</sic> <name xml:id="gfhtyt-d1e105-Nd1e1814" ref="#Jerome">Ieromus</name> 
           <lb ed="#O"/>si quod scientia rusticitas sibi soli prodest scilicet immediate quia non pro<lb ed="#O" break="no"/>dest 
           aliis per operationem intrinsicam.
         </p>
@@ -488,23 +488,23 @@
           <lb ed="#O"/>est ita omnibus circumstantiis proportionalibus eis in suis generibus quia cir<lb ed="#O" break="no"/>cumstantiae 
           debent ita proportionati quod ambae actiones procedant 
           <lb ed="#O"/>ab aequali conatu et tunc erit actus dilectionis in agente remis<lb ed="#O" break="no"/>sior 
-          <lb ed="#O"/>quam in contemplante quia magis <unclear>impeditur</unclear> propter cogitationem de 
+          <lb ed="#O"/>quam in contemplante quia magis <!--<unclear>-->impeditur<!--</unclear>--> propter cogitationem de 
           <lb ed="#O"/>actione et tunc erit tota operatio acti minus mutatio si alia causa non impe<lb ed="#O" break="no"/>diat 
           et per consequens totat vita si non aliquid aliud <choice><orig>inpediat</orig><reg>impediat</reg></choice> unde non esse 
-          <lb ed="#O"/><unclear>condi?bus</unclear> existentibus aequalibus in actio et contemplante est actio magis 
+          <lb ed="#O"/><!--<unclear>-->condi?bus<!--</unclear>--> existentibus aequalibus in actio et contemplante est actio magis 
           <lb ed="#O"/>meritorie ergo vita activa est melior quam contemplativa sed deberet 
           <lb ed="#O"/>accipi in antecedente proportionatas circumstantiarum et tunc esset antecedens falsum 
           <lb ed="#O"/>et omnia bona</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1863"><g ref="#pilcrow"/>Ad 4 cum arguitur etc dico quod homo non tenetur ad 
           <lb ed="#O"/>operationem de genere unius vitae contemplativae vel active non est habere talem 
-          <lb ed="#O"/>vitam quod una <unclear>yrundo</unclear> <g ref="#dot"/> non facit verum una dies estatem 
-          <lb ed="#O"/>sicut dicit <ref xml:id="gfhtyt-d1e105-Rd1e1877"><name xml:id="gfhtyt-d1e105-Nd1e1878" ref="#Aristotle">philosophus</name> <title ref="#Ethics">ethicorum</title> capitulo 9</ref> oportet tales actus per <unclear>magnum</unclear> cuius exercere 
+          <lb ed="#O"/>vitam quod una <!--<unclear>-->yrundo<!--</unclear>--> <g ref="#dot"/> non facit verum una dies estatem 
+          <lb ed="#O"/>sicut dicit <ref xml:id="gfhtyt-d1e105-Rd1e1877"><name xml:id="gfhtyt-d1e105-Nd1e1878" ref="#Aristotle">philosophus</name> <title ref="#Ethics">ethicorum</title> capitulo 9</ref> oportet tales actus per <!--<unclear>-->magnum<!--</unclear>--> cuius exercere 
           <lb ed="#O"/>sed posito antecedente scilicet quod homo magis teneretur ad activam quam ad contemplativam 
           <lb ed="#O"/>ex hoc non sequitur quod illa sit magis meritoria quia magis tenetur homo ad 
           <lb ed="#O"/>praecepta quam ad consimilia <g ref="#dot"/> et tunc observare consimilia este magis mer<lb ed="#O" break="no"/>itorium 
           quam observare praecepta nec sequitur quod homo quod operans non ex vo<lb ed="#O" break="no"/>to 
-          quia meritum operantis ex voto augmentatur propter meritum <unclear>e<lb ed="#O" break="no"/>meise</unclear> 
+          quia meritum operantis ex voto augmentatur propter meritum <!--<unclear>-->e<lb ed="#O" break="no"/>meise<!--</unclear>--> 
           in vovendo quomodo non est in proposito</p>
         
         <p xml:id="gfhtyt-d1e105-d1e1907"><g ref="#pilcrow"/>Ad 5 concedo quod vi<lb ed="#O" break="no"/>ta 
@@ -537,15 +537,15 @@
         <!-- article 3 -->
         <p xml:id="gfhtyt-d1e105-d1e1980"><lb ed="#O"/><hi rend="dropCapThreeLines">U</hi>trum scientia sit practica a suo fine scilicet proxima 
           <lb ed="#O"/><ref xml:id="gfhtyt-d1e105-Rd1e1986"><name xml:id="gfhtyt-d1e105-Nd1e1987" ref="#HenryOfGhent">henricus</name> in <title ref="#SummaeQuaestionumOrdinariarum">summa</title> 8 quaestione 2</ref> dicit sic sed contra arguo 
-          <lb ed="#O"/>quod non quia <ref xml:id="gfhtyt-d1e105-Rd1e1996"><name xml:id="gfhtyt-d1e105-Nd1e1997" ref="#A">philosophus</name> 3o <title ref="#deAnima">de anima</title></ref> et <ref xml:id="gfhtyt-d1e105-Rd1e2003"><name xml:id="gfhtyt-d1e105-Nd1e2004" ref="#Averroes">commentator</name> commento <unclear>49</unclear></ref> et <ref xml:id="gfhtyt-d1e105-Rd1e2010">6 
-            <title>ethicorum</title> capitulo 2</ref> <unclear>dis?t</unclear> peccatum intellectum quem ibi vocat <unclear>rationatvum</unclear> 
+          <lb ed="#O"/>quod non quia <ref xml:id="gfhtyt-d1e105-Rd1e1996"><name xml:id="gfhtyt-d1e105-Nd1e1997" ref="#A">philosophus</name> 3o <title ref="#deAnima">de anima</title></ref> et <ref xml:id="gfhtyt-d1e105-Rd1e2003"><name xml:id="gfhtyt-d1e105-Nd1e2004" ref="#Averroes">commentator</name> commento <!--<unclear>-->49<!--</unclear>--></ref> et <ref xml:id="gfhtyt-d1e105-Rd1e2010">6 
+            <title>ethicorum</title> capitulo 2</ref> <!--<unclear>-->dis?t<!--</unclear>--> peccatum intellectum quem ibi vocat <!--<unclear>-->rationatvum<!--</unclear>--> 
           <lb ed="#O"/>a speculativo per obiecta ex hoc 6 quod speculativus sit circa <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> et pecca<lb ed="#O" break="no"/>tus 
-          circa contingentia puta circa actionis humanas et res <unclear>consiliabiles</unclear> 
+          circa contingentia puta circa actionis humanas et res <!--<unclear>-->consiliabiles<!--</unclear>--> 
           <lb ed="#O"/>ergo distinctio est penes obiecta</p>
         
         <p xml:id="gfhtyt-d1e105-d1e2034"><g ref="#pilcrow"/>2o arguo sicut arguit <ref xml:id="gfhtyt-d1e105-Rd1e2037"><name xml:id="gfhtyt-d1e105-Nd1e2038" ref="#Scotus">doctor 
           <lb ed="#O"/>subtilis</name> contra <name xml:id="gfhtyt-d1e105-Nd1e2043" ref="#HenryOfGhent">solempnem</name> primo <title>sententiarum</title> quaestione 7</ref> si scientia sit practi<lb ed="#O" break="no"/>ca 
-          a fine scilicet actione <unclear>aut</unclear> ergo quia activitas ordiatur ad actionem 
+          a fine scilicet actione <!--<unclear>-->aut<!--</unclear>--> ergo quia activitas ordiatur ad actionem 
           <lb ed="#O"/>et tunc scientia non esset practica nisi artifex activitatis intenderet prox<lb ed="#O" break="no"/>imam 
           quod est manifeste falsum aut ideo scientia est practica ratione finis quia 
           <lb ed="#O"/>habet aptitudinem ad finem <g ref="#dot"/> et si hoc <g ref="#dot"/> tunc alia est causa intrinseca sibi qua 
@@ -554,14 +554,14 @@
           ergo scientia non est practica primo a fine suo</p>
         
         <p xml:id="gfhtyt-d1e105-d1e2071"><g ref="#pilcrow"/>Praeterea dicit ipse aliquis 
-          <lb ed="#O"/>intellectus practicus est respectu actionis in sensitiva potentia sicut <unclear>ratio ne et voluntas</unclear> 
+          <lb ed="#O"/>intellectus practicus est respectu actionis in sensitiva potentia sicut <!--<unclear>-->ratio ne et voluntas<!--</unclear>--> 
           <lb ed="#O"/>ergo si a fine dicatur practicus erit actio potentiae sensitivae finis intellec<lb ed="#O" break="no"/>tus 
-          practici et tunc actio vilioris potentiae est finis potentiae <unclear reason="smudged">nobilioris</unclear> 
+          practici et tunc actio vilioris potentiae est finis potentiae <!--<unclear reason="smudged">-->nobilioris<!--</unclear>--> 
           <cb ed="#O" n="b"/><!-- 4rb -->
           <lb ed="#O"/>quod non videtur</p>
         
         <p xml:id="gfhtyt-d1e105-d1e2092"><g ref="#pilcrow"/>ad oppositum arguitur sic <ref xml:id="gfhtyt-d1e105-Rd1e2095"><name xml:id="gfhtyt-d1e105-Nd1e2096" ref="#Aristotle">philosophus</name> 1 <title ref="#Metaphysics">metaphysicae</title></ref> probat quod scientia speculativa est 
-          <lb ed="#O"/>quam practica quia ipsa est gratia sui <g ref="#dot"/> sed practica est gratia actionis ergo <unclear>ut</unclear> 
+          <lb ed="#O"/>quam practica quia ipsa est gratia sui <g ref="#dot"/> sed practica est gratia actionis ergo <!--<unclear>-->ut<!--</unclear>--> 
           <lb ed="#O"/>videtur utraque scientia denominatur a suo fine</p>
         
         <p xml:id="gfhtyt-d1e105-d1e2111"><g ref="#pilcrow"/>praeterea <name xml:id="gfhtyt-d1e105-Nd1e2114">commentator</name> 6 <title ref="#Metaphysics">metaphysicae</title> 
@@ -576,11 +576,11 @@
           <lb ed="#O"/>finis practicae est operatio</p>
         
         <p xml:id="gfhtyt-d1e105-d1e2153"><g ref="#pilcrow"/><name xml:id="gfhtyt-d1e105-Nd1e2155" ref="#Scotus">Iohannes</name> dicit primo libro quaestione 7 quod scientia non dicitur 
-          <lb ed="#O"/>primo practica a fine sed a causa intrinseca priore scilicet ab eius <unclear>conformante</unclear> 
-          <lb ed="#O"/><unclear>aptitudinali</unclear> ad voluntatem rectam quae aptitudo prior est ipso fine 
+          <lb ed="#O"/>primo practica a fine sed a causa intrinseca priore scilicet ab eius <!--<unclear>-->conformante<!--</unclear>--> 
+          <lb ed="#O"/><!--<unclear>-->aptitudinali<!--</unclear>--> ad voluntatem rectam quae aptitudo prior est ipso fine 
           <lb ed="#O"/>et ideo <name xml:id="gfhtyt-d1e105-Nd1e2168" ref="#Averroes">commentator</name> dicit quod scientia dei in beatorum est practica scilicet qud est apta 
-          <lb ed="#O"/>conformari volitioni rectae ipsius dei sane alterius <unclear>beati</unclear>et ista <name xml:id="gfhtyt-d1e105-Nd1e2175" ref="#Averroes">commentator</name> dicit 
-          <lb ed="#O"/>ipse et aptitudo inquantum <unclear>talis</unclear> prior est <choice><orig>voli<sic>i</sic>tione</orig><reg>volitione</reg></choice> recta in deo et contra 
+          <lb ed="#O"/>conformari volitioni rectae ipsius dei sane alterius <!--<unclear>-->beati<!--</unclear>-->et ista <name xml:id="gfhtyt-d1e105-Nd1e2175" ref="#Averroes">commentator</name> dicit 
+          <lb ed="#O"/>ipse et aptitudo inquantum <!--<unclear>-->talis<!--</unclear>--> prior est <choice><orig>voli<sic>i</sic>tione</orig><reg>volitione</reg></choice> recta in deo et contra 
           <lb ed="#O"/>diligit <g ref="#dot"/> se inquantum talis est et in hoc verum dicit</p>
         
         <p xml:id="gfhtyt-d1e105-d1e2196"><g ref="#pilcrow"/>Sed contra istum 
@@ -599,13 +599,13 @@
         
         <p xml:id="gfhtyt-d1e105-d1e2240">
           <g ref="#pilcrow"/>ad 
-          <lb ed="#O"/>istum articulum dico quod scientia immediate dicitur practica a fine et <unclear>quem</unclear> probat 
+          <lb ed="#O"/>istum articulum dico quod scientia immediate dicitur practica a fine et <!--<unclear>-->quem<!--</unclear>--> probat 
           <lb ed="#O"/>scilicet quia probat in actum moralem ut artificialem tamquam regula direc<lb ed="#O" break="no"/>tiva 
           illius actionis immediate sed probo est scientia practica ex sua forma 
           <lb ed="#O"/>sicut dicit <name xml:id="gfhtyt-d1e105-Nd1e2254" ref="#Scotus">ioannes scotus</name> scilicet quia habet conformitatem ad acitonem ex qua 
           <lb ed="#O"/>conformitate intrinseca immediate sequitur ipsa posse regulare actionem 
-          <lb ed="#O"/>immediate non dico quacumque quia secundum hoc sicut <name xml:id="gfhtyt-d1e105-Nd1e2261" ref="#Scotus">ioannes</name> dicit <unclear>locuta</unclear> esset practica cum 
-          <lb ed="#O"/>sit regulativa omnium <unclear>sillig??orum</unclear> cuiuscumque scientiae <pc ana="#punctusfluxus"/> sed actionem mora<lb ed="#O" break="no"/>lem 
+          <lb ed="#O"/>immediate non dico quacumque quia secundum hoc sicut <name xml:id="gfhtyt-d1e105-Nd1e2261" ref="#Scotus">ioannes</name> dicit <!--<unclear>-->locuta<!--</unclear>--> esset practica cum 
+          <lb ed="#O"/>sit regulativa omnium <!--<unclear>-->sillig??orum<!--</unclear>--> cuiuscumque scientiae <pc ana="#punctusfluxus"/> sed actionem mora<lb ed="#O" break="no"/>lem 
           vel artificialem ita quod scientia practica semper est respectu actionis contin<lb ed="#O" break="no"/>gentis 
           sicut dicit <name xml:id="gfhtyt-d1e105-Nd1e2277" ref="#Aristotle">philosophus</name> 6 <title ref="#Ethics">ethicorum</title> et solum respectu illorum quae fiunt ab in<lb ed="#O" break="no"/>tellectu 
           nostro cuius sunt artificia vel a voluntate nostra cuius sunt mo<lb ed="#O" break="no"/>ralia 
@@ -615,7 +615,7 @@
         <p xml:id="gfhtyt-d1e105-d1e2303">
           <g ref="#pilcrow"/>Ad 
           primum argumentum concedo quod practicus intellectus distinguitur a speculativo per obiecta sed 
-          <lb ed="#O"/>non sufficienter quia manifestum est quod <unclear>me?tina</unclear> speculativa et practica sunt circa 
+          <lb ed="#O"/>non sufficienter quia manifestum est quod <!--<unclear>-->me?tina<!--</unclear>--> speculativa et practica sunt circa 
           <lb ed="#O"/>idem obiectum <g ref="#dot"/> sed speculativa est ex propositionibus necessariis <g ref="#dot"/> et practica ex 
           <lb ed="#O"/>contingentibus <g ref="#dot"/> et ideo dico quod <name xml:id="gfhtyt-d1e105-Nd1e2321" ref="#Aristotle">philosophus</name> intelligit quod distantia penes obiecta 
           <lb ed="#O"/>vel certe penes modum scientiae illorum obiectorum <g ref="#dot"/> sed tamen immediate ex 
@@ -634,7 +634,7 @@
           <lb ed="#O"/>finis illius habitus ut practicus est <g ref="#dot"/> nec est hoc aliquid inconveniens scilicet quod actio 
           potentiae vilioris non secundum se <g ref="#dot"/> sed secundum quod potentia vilior regulatur 
           <lb ed="#O"/>a superiori sit finis alicuius habitus potentiae superioris vel ipsius 
-          <lb ed="#O"/>potentiae quatenus practicus est <pc ana="#punctusfluxus"/> <unclear>quoniam</unclear> sic est de pluribus habitibus morali<lb ed="#O" break="no"/>bus 
+          <lb ed="#O"/>potentiae quatenus practicus est <pc ana="#punctusfluxus"/> <!--<unclear>-->quoniam<!--</unclear>--> sic est de pluribus habitibus morali<lb ed="#O" break="no"/>bus 
           scilicet virtutibus</p>
         
         <p xml:id="gfhtyt-d1e105-d1e2369"><lb ed="#O"/><hi rend="dropCapThreeLines">A</hi>d quaestionem ergo principalem dico quod ista scientia est principaliter speculativa 
@@ -649,7 +649,7 @@
           <lb ed="#O"/>in quibus <g ref="#dot"/> sufficienter dividitur cognitio practica sicut patet <ref xml:id="gfhtyt-d1e105-Rd1e2404">6 <title ref="#Ethics">ethicorum</title></ref> diffuse 
           <lb ed="#O"/>quia ars est respectu actionis extrinsece et prudentia aliquando <g ref="#dot"/> similiter et 
           <lb ed="#O"/>aliquando respectu volitionis tantum sicut est prudentia directiva amicitiae 
-          <lb ed="#O"/>actus enim amicitiae est in voluntate nec habet alium principalem actum et <unclear>cer<lb ed="#O" break="no"/>te</unclear> 
+          <lb ed="#O"/>actus enim amicitiae est in voluntate nec habet alium principalem actum et <!--<unclear>-->cer<lb ed="#O" break="no"/>te<!--</unclear>--> 
           per privationem istius conditionis cognoscitur quae scientia sit speculativa est 
           <lb ed="#O"/>ut manifestius appareat illud quod ego dico pono exemplum aliquis cognoscit a<lb ed="#O" break="no"/>micum 
           suum amorem et cognoscit in quo gradu et quare et qualiter ipse debet 
@@ -662,7 +662,7 @@
           <lb ed="#O"/>a sua regula sed tamquam a causa <g ref="#dot"/> <choice><orig>alico</orig><reg>aliquo</reg></choice> modo prior est amore speculativus et non 
           <lb ed="#O"/>est praxis sine actio practica eeo quod talis <g ref="#dot"/> sed eas dilectio sine alia 
           <lb ed="#O"/>procedens a secunda cognitione est praxis sive actio practica pro eo quod procedit 
-          <lb ed="#O"/>ab illa tamquam a <unclear>regulante</unclear> istam <g ref="#dot"/> unde dico quod cognitio principaliter in thema vi<lb ed="#O" break="no"/>atoris 
+          <lb ed="#O"/>ab illa tamquam a <!--<unclear>-->regulante<!--</unclear>--> istam <g ref="#dot"/> unde dico quod cognitio principaliter in thema vi<lb ed="#O" break="no"/>atoris 
           est cognitio divina absoluta si non sicut directiva et similiter amore coniun<lb ed="#O" break="no"/>tus 
           eo quod talis est speculativus licet aliae cognitiones praecedentes sint direc<lb ed="#O" break="no"/>tive 
           amoris dei et proximi <g ref="#dot"/> et ideo haec scientia est principaliter speculativa ut dixi</p>
@@ -672,7 +672,7 @@
           <lb ed="#O"/>ergo etc dico quod non sequitur ordinatur ad aliquem finem quam ad speculationem ergo non est speculativa</p>
         
         <p xml:id="gfhtyt-d1e105-d1e2486"><lb ed="#O"/>Et ad dictum <ref xml:id="gfhtyt-d1e105-Rd1e2489"><name xml:id="gfhtyt-d1e105-Nd1e2490" ref="#Aristotle">philosophi</name> 2 <title ref="#Metaphysics">metaphysicae</title></ref> dico quod intelligit quod finis ultimus 
-          <lb ed="#O"/>in <unclear>genere</unclear> cognitionis scientiae speculativae est veritas talis scilicet quae non est directiva 
+          <lb ed="#O"/>in <!--<unclear>-->genere<!--</unclear>--> cognitionis scientiae speculativae est veritas talis scilicet quae non est directiva 
           <lb ed="#O"/>volutionis vel actionis extrinsece imperatae a voluntate nec hinc repug<lb ed="#O" break="no"/>nat 
           quin finis eius ultimus sic dilectio <g ref="#dot"/> et hoc dico proprius in 
           <lb ed="#O"/>via quia talis finis non facit scientiam esse practicam sicut in positione 
@@ -702,7 +702,7 @@
         
         <p xml:id="gfhtyt-d1e105-d1e2573"><lb ed="#O"/><g ref="#pilcrow"/>ad 5 argumentum concedo quod tota theologia est lex nova et antiqua <g ref="#dot"/> Dico 
           <lb ed="#O"/>quod non omnis lex <g ref="#dot"/> est scientia moralis sed solum illa quae principaliter docet moraliter 
-          <lb ed="#O"/>vivere non illa cuius pars principalis est speculatio sequens doctrinam <unclear>morum</unclear> <g ref="#dot"/></p>
+          <lb ed="#O"/>vivere non illa cuius pars principalis est speculatio sequens doctrinam <!--<unclear>-->morum<!--</unclear>--> <g ref="#dot"/></p>
         
         <p xml:id="gfhtyt-d1e105-d1e2590"><lb ed="#O"/><g ref="#pilcrow"/>ad 6 de dicto <ref xml:id="gfhtyt-d1e105-Rd1e2594"><name xml:id="gfhtyt-d1e105-Nd1e2595" ref="#Paul">apostoli</name> <title ref="#ro">ad Romanos</title> 15</ref> <quote xml:id="gfhtyt-d1e105-Qd1e2602">quaecumque scripta sunt 
           <lb ed="#O"/>ad nostram aedificationem</quote> etc <g ref="#dot"/> dico quod vera littera habet ad doctrinam 
@@ -711,8 +711,8 @@
         
         <p xml:id="gfhtyt-d1e105-d1e2619"><g ref="#pilcrow"/>vel potest dici quod 
           <lb ed="#O"/>prima littera <g ref="#dot"/> vera est <g ref="#dot"/> unde quod accipitur ulterius quod <mentioned>aedificatio</mentioned> principaliter pertinet 
-          <lb ed="#O"/>ad <choice><orig>corectionem</orig><reg>correctionem</reg></choice> <unclear>morum</unclear> et finaliter ad speculationem et amorem <sic>die</sic> unde 
-          <lb ed="#O"/><ref xml:id="gfhtyt-d1e105-Rd1e2642"><name xml:id="gfhtyt-d1e105-Nd1e2643" ref="#Augustine">augustinus</name> de sermone de <name xml:id="gfhtyt-d1e105-Nd1e2646">iacob</name> et <name xml:id="gfhtyt-d1e105-Nd1e2648">esau</name></ref> dicit <quote xml:id="gfhtyt-d1e105-Qd1e2650">ad haec <unclear>sacro?sca</unclear> mis<lb ed="#O" break="no"/>teria 
+          <lb ed="#O"/>ad <choice><orig>corectionem</orig><reg>correctionem</reg></choice> <!--<unclear>-->morum<!--</unclear>--> et finaliter ad speculationem et amorem <sic>die</sic> unde 
+          <lb ed="#O"/><ref xml:id="gfhtyt-d1e105-Rd1e2642"><name xml:id="gfhtyt-d1e105-Nd1e2643" ref="#Augustine">augustinus</name> de sermone de <name xml:id="gfhtyt-d1e105-Nd1e2646">iacob</name> et <name xml:id="gfhtyt-d1e105-Nd1e2648">esau</name></ref> dicit <quote xml:id="gfhtyt-d1e105-Qd1e2650">ad haec <!--<unclear>-->sacro?sca<!--</unclear>--> mis<lb ed="#O" break="no"/>teria 
             celebrantur ex hortationes ecclesiae fiunt ad haec sermo dei prae<lb ed="#O" break="no"/>dicatur 
             ad <choice><orig>corigendos</orig><reg>corrigendos</reg></choice> mores ut oculus mentis nostrae sa<lb ed="#O" break="no"/>netur 
             ab ea rem quae non inpedit ab aspectu <sic>die</sic></quote> haec ille unde 
@@ -722,13 +722,13 @@
           <lb ed="#O"/>7m de dicto <name xml:id="gfhtyt-d1e105-Nd1e2676">iacobi apostoli</name> <quote xml:id="gfhtyt-d1e105-Qd1e2678">estote factores</quote> etc Dico quod 
           <lb ed="#O"/>ipse intendit quod audientes praedicationem ad <choice><orig>corectiones</orig><reg>correctiones</reg></choice> morum non 
           <lb ed="#O"/>debent esse auditores tantum sed factores nec intendit quod illa 
-          <lb ed="#O"/>factio vel <choice><orig>inpletio</orig><reg>impletio</reg></choice> sit finis ultimus huius scientiae <g ref="#dot"/> sed <unclear>dispositio</unclear> 
+          <lb ed="#O"/>factio vel <choice><orig>inpletio</orig><reg>impletio</reg></choice> sit finis ultimus huius scientiae <g ref="#dot"/> sed <!--<unclear>-->dispositio<!--</unclear>--> 
           <lb ed="#O"/>ad ultimi in finem</p>
         
-        <p xml:id="gfhtyt-d1e105-d1e2703"><g ref="#pilcrow"/>ad ultimum dico quod <unclear>evangelum</unclear> non est or<lb ed="#O" break="no"/>dinatum 
+        <p xml:id="gfhtyt-d1e105-d1e2703"><g ref="#pilcrow"/>ad ultimum dico quod <!--<unclear>-->evangelum<!--</unclear>--> non est or<lb ed="#O" break="no"/>dinatum 
           principaliter ad mores <choice><orig>corigendos</orig><reg>corrigendos</reg></choice> sed immediate ordinatur 
-          <lb ed="#O"/>ad hoc et aliquam ad dispositionem <unclear>praeviam</unclear> contemplationem et ideo fuit maxime 
-          <lb ed="#O"/><unclear>iu?tum</unclear> de hoc multum praedicare quia sine hac dispositione praevia ul<lb ed="#O" break="no"/>timus 
+          <lb ed="#O"/>ad hoc et aliquam ad dispositionem <!--<unclear>-->praeviam<!--</unclear>--> contemplationem et ideo fuit maxime 
+          <lb ed="#O"/><!--<unclear>-->iu?tum<!--</unclear>--> de hoc multum praedicare quia sine hac dispositione praevia ul<lb ed="#O" break="no"/>timus 
           finis non attingitur <pc ana="punctuselevatus"/></p>
         
       </div>

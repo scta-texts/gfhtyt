@@ -73,11 +73,12 @@
           <lb ed="#O"/>et omnium diversarum scripturarum plenitudo et finis esse dilecto 
           <lb ed="#O"/>rei quam fruendum est et rei quae nobiscum ea frui potest</quote> haec ille
         </p> 
-        
-        <p xml:id="gfhtyt-d1e105-d1e186"><g ref="#pilcrow"/>2o 
+        <p xml:id="gfhtyt-d1e105-d1e186">
+          <g ref="#pilcrow"/>2o 
           <lb ed="#O"/>sic ultimus finis huius scientiae est beatitudo ergo finis huius scientiae est fruitio 
           <lb ed="#O"/>dei ergo speculatio non est finis eius ultimus ergo non est speculativa et per consequens 
-          <lb ed="#O"/>est practica</p>
+          <lb ed="#O"/>est practica
+        </p>
         
         <p xml:id="gfhtyt-d1e105-d1e197"><g ref="#pilcrow"/>3o sic in hac scientia et per hanc primo intenditur ut boni 
           <lb ed="#O"/>fiamus non ut sciamus ergo haec scientia non est speculativa consequentia patet <ref xml:id="gfhtyt-d1e105-Rd1e202">2 <title ref="#Ethics">ethicorum</title> 
@@ -87,22 +88,23 @@
           quod prius allegatum est quod <quote xml:id="gfhtyt-d1e105-Qd1e226">iste tenet quicquid latet et quicquid patet in divinis 
             <lb ed="#O"/>sermonibus qui caritatem servat in moribus</quote> <!-- not sure if quote ends here or continues --> ergo totus sermo divinus 
           <lb ed="#O"/>sine <!--<unclear>-->the?a<!--</unclear>--> ad haec tendat ut servat homo caritatem in moribus et per consequens 
-          <lb ed="#O"/>ut fiat bonus</p>
-        
-        <p xml:id="gfhtyt-d1e105-d1e241"><g ref="#pilcrow"/>4o sic finis legis est dilectio <ref xml:id="gfhtyt-d1e105-Rd1e244"><title ref="#rom">Romanos</title> 13</ref> et ple<lb ed="#O" break="no"/>nitudo 
+          <lb ed="#O"/>ut fiat bonus
+        </p>
+        <p xml:id="gfhtyt-d1e105-d1e241">
+          <g ref="#pilcrow"/>4o sic finis legis est dilectio <ref xml:id="gfhtyt-d1e105-Rd1e244"><title ref="#rom">Romanos</title> 13</ref> et ple<lb ed="#O" break="no"/>nitudo 
           legis est dilectio et per consequens non est speculatio ergo lex ista 
-          <lb ed="#O"/>scilicet <!--<unclear>-->theologia<!--</unclear>--> non est scientia speculativa</p>
-        
-        <p xml:id="gfhtyt-d1e105-d1e256"><g ref="#pilcrow"/>5o sic tota <!--<unclear>-->theologia<!--</unclear>--> est lex nova et 
-          <lb ed="#O"/>antiqua sed lex <!--<unclear>-->manifestum<!--</unclear>--> est <g ref="#dot"/> est scientia moralis et non speculativa ergo etc</p>
-        
+          <lb ed="#O"/>scilicet <!--<unclear>-->theologia<!--</unclear>--> non est scientia speculativa
+        </p>
+        <p xml:id="gfhtyt-d1e105-d1e256">
+          <g ref="#pilcrow"/>5o sic tota <!--<unclear>-->theologia<!--</unclear>--> est lex nova et 
+          <lb ed="#O"/>antiqua sed lex <!--<unclear>-->manifestum<!--</unclear>--> est <g ref="#dot"/> est scientia moralis et non speculativa ergo etc
+        </p>
         <p xml:id="gfhtyt-d1e105-d1e268">
           <g ref="#pilcrow"/>6o 
           <lb ed="#O"/>sic <ref xml:id="gfhtyt-d1e105-Rd1e273"><title ref="#rom">Romanos</title> <!--<unclear>-->19<!--</unclear>--></ref> <quote xml:id="gfhtyt-d1e105-Qd1e279">quaecumque scripta sunt ad aedificationem nostram scripta 
           sunt</quote> <pc ana="#punctuselevatus"/> aedificatio aut maxime pertinet ad mores corrigendos <g ref="#dot"/> 
           ergo propter mores corrigendo omnia scripta sunt
         </p>
-        
         <p xml:id="gfhtyt-d1e105-d1e286">
           <g ref="#pilcrow"/>Item scribitur <ref xml:id="gfhtyt-d1e105-Rd1e289"><title ref="#iac">Iaco<lb ed="#O" break="no"/>bi</title> 
           primo</ref> <quote xml:id="gfhtyt-d1e105-Qd1e296">estote factores <g ref="#dot"/> verbi non auditores tantum</quote> ubi manifestum est quod 

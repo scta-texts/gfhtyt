@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 [Sorb193 Transcription]</title>
+        <author ref="#RichardFitzRalph">Richard FitzRalph</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1 [Sorb193 Transcription]</title>
+          <date when="2015-11-04">November 04, 2015</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="O" n="cod-ou8uya">Oxford, Oriel 15</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2015-11-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#O" n="1-v"/>
+        <cb ed="#O" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gfhtyt-d1e82">
+        <head xml:id="gfhtyt-d1e82-Hd1e99">Quaestio 1 [Oriel 15 Transcription]</head>
+        <p xml:id="gfhtyt-d1e82-d1e101">
+          <lb ed="#O" n="22"/>Utrum possibile sit viatori scire demonstrative deum esse <g ref="#dot"/> 
+          <lb ed="#O"/>et arguo primo quod non quia si sic <g ref="#dot"/> tunc posset viator scire 
+          <lb ed="#O"/>demonstrative aliquid esse <unclear>summe</unclear> bonum cum hoc includatur in significa<lb ed="#O" break="no"/>to 
+          huius termini <mentioned>deus</mentioned> ut patet per <ref xml:id="gfhtyt-d1e82-Rd1e120"><name xml:id="gfhtyt-d1e82-Nd1e121" ref="#Augustine">augustinum</name> primo <title>de doctrina christiana</title> capitulo <num>ii</num></ref> ubi dicit 
+          <lb ed="#O"/>quod omnes hoc deum esse consentiunt quod ceteris rebus omnibus ante ponunt 
+          <lb ed="#O"/>falsitas consequentis probatur quia si aliquis posset scire ad esse <unclear>summe</unclear> bonum 
+          <lb ed="#O"/>ipse posset scire ad esse <unclear>sine</unclear> malum et ita malum <g ref="#dot"/> sicut deus 
+          <lb ed="#O"/>est bonus <g ref="#dot"/> consequens falsum quia tale malum nullam bonitatem includeret <g ref="#dot"/> 
+          <lb ed="#O"/>consequentia probatur <g ref="#dot"/> quia per <ref xml:id="gfhtyt-d1e82-Rd1e152"><name xml:id="gfhtyt-d1e82-Nd1e153" ref="#Averroes">commentatorem</name> primo <title>de caelo</title> commento 43</ref> contraria sunt aequalia <unclear>in</unclear> nulla contrarieta<lb ed="#O" break="no"/>tis 
+          <g ref="#dot"/> et si unum sit infinitum reliquum <choice><orig>neccessario</orig><reg>necessario</reg></choice> est infinitum <g ref="#dot"/> scit 
+          <lb ed="#O"/>bonum et malum sunt contraria malum est ergo etc.
+        </p>
+        <p xml:id="gfhtyt-d1e82-d1e175">
+          <g ref="#pilcrow"/>Secundo arguitur quod possibile 
+          <lb ed="#O"/>sit scire aliquid esse summe et simpliciter malum <g ref="#dot"/> quia aliquid est magis ma<lb ed="#O" break="no"/>lum 
+          alio et aliquid est minus malum et consequentia probatur per modum arguendi <ref xml:id="gfhtyt-d1e82-Rd1e185"><name xml:id="gfhtyt-d1e82-Nd1e186" ref="#Aristotle">aristotelis</name></ref> 
+          <lb ed="#O"/>et <ref xml:id="gfhtyt-d1e82-Rd1e192"><name xml:id="gfhtyt-d1e82-Nd1e193" ref="#Averroes">commentatoris</name> 4to <title>metaphysicae</title> commento 18</ref> ubi probans quod aliquid fit simpliciter verum arguit sic 
+          <lb ed="#O"/>aliquid est <unclear>magnis</unclear> verum et aliquid est minus verum ergo aliquid est simpliciter verum et maxime 
+          <lb ed="#O"/>sit arguitur in proposito
+        </p>
+        <p xml:id="gfhtyt-d1e82-d1e206">
+          <g ref="#pilcrow"/>Tertio tunc possibile esset scire aliquid esse sum<lb ed="#O" break="no"/>me 
+          bonum <unclear>omni</unclear> quae sunt <g ref="#dot"/> sicut <ref xml:id="gfhtyt-d1e82-Rd1e216"><name xml:id="gfhtyt-d1e82-Nd1e217" ref="#Anselm">Anselmus</name> dicit se <unclear>demonstrare</unclear> <title ref="#Monologion">monologion</title> capitulo 1</ref> 
+          sed illud argumentum non probat quia accipit in argumento quod omnia quae dicuntur aliquid <unclear>adinvi<lb ed="#O" break="no"/>cem</unclear> 
+          secundum <unclear>magis</unclear> et minus ait aequaliter per aliquid dicuntur <g ref="#dot"/> ita quod non aliquid et aliud <g ref="#dot"/> sed 
+          id intelligitur in diversis ergo dicit ipse omnia bona dicuntur <g ref="#dot"/> adinvicem secundum m<lb ed="#O" break="no"/>gis 
+          et minus per aliquid unum repertum in istis et illud <choice><orig>neccessario</orig><reg>necessario</reg></choice> est omnem 
+          <lb ed="#O"/>bonum <unclear>omni</unclear> quae sunt <g ref="#dot"/> Sed sic potest probari quod est alia una res numero per quam 
+          <lb ed="#O"/>duo alba dicuntur adinvicem secundum magis et minus et per eadem rationem illa res 
+          <lb ed="#O"/>et alia albedo habent aliquam unam rem eis communem et sic infinitum simile principium 
+          <lb ed="#O"/>innuit <ref xml:id="gfhtyt-d1e82-Rd1e260"><name xml:id="gfhtyt-d1e82-Nd1e261" ref="#Aristotle">Aristoteles</name></ref> et etiam <ref xml:id="gfhtyt-d1e82-Rd1e264"><name xml:id="gfhtyt-d1e82-Nd1e265" ref="#Averroes">commentator</name> 2 <title ref="#deAnima">de anima</title> commento 68</ref> ubi dicit quod aer et aqua 
+          <lb ed="#O"/>et corpora caelestia sunt <unclear>dyaffona <!-- diaphanous --></unclear> sed nullum illorum secundum quod talem sed 
+          <lb ed="#O"/>per <unclear>materiam <!-- seems like it needs another minim --></unclear> existentem in eis haec <sic>illi</sic>
+        </p>
+        <p xml:id="gfhtyt-d1e82-d1e288">
+          4to sic tunc hoc esset 
+          <lb ed="#O"/>possibile sciri ex motu cum ex motu sit via evidentissima 
+          <lb ed="#O"/>probans deum esse cum non sit alia sicut dicit <name xml:id="gfhtyt-d1e82-Nd1e294" ref="#Averroes">commentator</name> sed ex motu non 
+          <lb ed="#O"/>potest sciri demonstrative quia nullus potest sciri motum esse quia quocumque in 
+          <lb ed="#O"/>stanti accepto ipso dubitat an deus in illo instanti incipi<lb ed="#O" break="no"/>at 
+          <unclear cert="low">ferre</unclear> res omnes quosdam ergo dubitat an termini moveantur 
+          quia si tunc incipiant quiescere non moventur tunc assumptum patet quia deus 
+          <lb ed="#O"/>potest hoc <unclear>ferre</unclear> et ipse non scit quod non vult quia scriptum est <ref xml:id="gfhtyt-d1e82-Rd1e311"><title ref="#IIcor">corinthios</title> 2 <!-- errneous as quote verse is actually from romans; but see also I cor 2:16--></ref> 
+          <lb ed="#O"/><quote xml:id="gfhtyt-d1e82-Qd1e319" source="http://scta.info/resource/rom11_34">quis novit sensum domini aut quis <choice><orig>conciliarius</orig><reg>consiliarius</reg></choice> eius fuit</quote> <pc ana="#punctuselevatus"/>
+        </p>
+        <p xml:id="gfhtyt-d1e82-d1e330">
+          <lb ed="#O"/><g ref="#pilcrow"/>Quinto <unclear>tunc</unclear> homo posset scire demonstrative ex cognitione substantiarum 
+          <lb ed="#O"/>sensibilium consequens falsum quia nullus potest scire aliquam substantiam sensibilem extra 
+          <lb ed="#O"/>se esse ergo nec potest aliquid <g ref="#dot"/> aliud scire ex cognitione illarum <g ref="#dot"/> assumptum 
+          <lb ed="#O"/>probatur quia nullus scit utrum facit de omnibus apparentibus <pc ana="#punctuselevatus"/> sicut facit 
+          <lb ed="#O"/>in sacramento altaris nisi sunt accidentia absque substantia sensibili et idem 
+          <lb ed="#O"/>potest argui similiter de homine quocumque respectu sui corporis <unclear>proprii</unclear> quod 
+          <lb ed="#O"/>non sciat illud esse substantiam quia hoc non scit nisi ex cognitione sensitiva 
+          <lb ed="#O"/>sed in illa non est certus quia et si omnia accidentia in ipso ita <unclear>manerent</unclear> 
+          <lb ed="#O"/>sicut accidentia in sacramento altaris <g ref="#dot"/> ipse ita indicaret de suo 
+          <lb ed="#O"/>corpore facit et tunc esset deceptus ergo nunc non est certus sequitur 
+          <lb ed="#O"/>ergo quod nullus homo potest scire aliquam substantiam sensibilem esse ergo multo 
+          <lb ed="#O"/>fortius nec aliquam abstractam cum substantiae abstractae sint diffi<lb ed="#O" break="no"/>cilioris 
+          cognitionis quam substantiae sensibiles sicut dicit <ref xml:id="gfhtyt-d1e82-Rd1e376"><name xml:id="gfhtyt-d1e82-Nd1e377" ref="#Averroes">commentator</name> 2o <title ref="#Metaphysics">metaphysicae</title> 
+          <lb ed="#O"/>commento 2</ref> et ratio est <pc ana="#punctuselevatus"/> quia substantiae sensibiles sunt propinquiores <unclear>sensum</unclear>
+        </p>
+        <p xml:id="gfhtyt-d1e82-d1e391">
+          <lb ed="#O"/><g ref="#pilcrow"/>Sexto <g ref="#dot"/> tunc hoc posset sciri ex cognitione sensitiva sensibilium 
+          <cb ed="#O" n="b"/><!-- 1vb -->
+          <lb ed="#O"/>quia omnis cognitio nostra intellectiva habet ortum a sensu ut dicit <name xml:id="gfhtyt-d1e82-Nd1e401" ref="#Aristotle">philosophus</name> <g ref="#dot"/> conclusio 
+          <lb ed="#O"/>falsum quia per sensum <choice><orig>nichil</orig><reg>nihil</reg></choice> possumus scire omnino sicut probat <ref xml:id="gfhtyt-d1e82-Rd1e413"><name xml:id="gfhtyt-d1e82-Nd1e414" ref="#Augustine">augustinus</name> <title ref="#deDiversisQuaestionibus">83 
+            <lb ed="#O"/>quaestiones</title> quaestione 9</ref> sic omne quod corporeus sensus attingit quod corporeum 
+          <lb ed="#O"/>dicitur sine ulla intermissione temporis commutatur velut cum ca<lb ed="#O" break="no"/>pilli 
+          <g ref="#dot"/> capitis nostri crescunt <unclear>vel</unclear> corpus scitur in <unclear>oductutem</unclear> aut 
+          <lb ed="#O"/>efflorescit perpetuo illud fit nec intermittit omnino fieri quod aut 
+          <lb ed="#O"/>non manet <pc ana="#punctuselevatus"/> percipi non potest <g ref="#dot"/> illud enim percipitur <unclear>quod</unclear> scientia comprehenditur 
+          <lb ed="#O"/>comprehendi aut non potest <pc ana="#punctuselevatus"/> quod sine intermissione mutatur non est <g ref="#dot"/> igitur 
+          <lb ed="#O"/>ex petenda sinceritas <unclear>si?tis</unclear> <g ref="#dot"/> a sensibus corporis haec ille <!-- end of Augustine quote --> Et 
+          <lb ed="#O"/><unclear>ce</unclear> quam plane dicit quod omnia sensibilia sunt in continua mutatione 
+          <lb ed="#O"/>et ideo nullum potest scientia comprehendi ergo per consequens nec sciri
+        </p>
+        <p xml:id="gfhtyt-d1e82-d1e466">
+          <g ref="#pilcrow"/>Ad oppositum 
+          <lb ed="#O"/>arguitur sic <g ref="#dot"/> <ref xml:id="gfhtyt-d1e82-Rd1e474"><title>Romanos</title> 1</ref> <quote xml:id="gfhtyt-d1e82-Qd1e478" source="http://scta.info/resource/ro1_20">invisibilia dei per ea quae facta sunt <pc ana="punctuselevatus"/> intellecta con<lb ed="#O" break="no"/>spiciuntur 
+            sempiterna quoque virtus eius et divinitas <g ref="#dot"/> ita ut sint inex<lb ed="#O" break="no"/>cusabiles</quote> 
+          ubi dicit <title>glossa</title> autentica quod deus nulla invisibilils posset sciri opus 
+          <lb ed="#O"/>fecisse quod visibilitate sui <pc ana="#punctuselevatus"/> opificem manifestavit ut per in<lb ed="#O" break="no"/>certum 
+          certum posset sciri <!-- likely end of gloss quote --><g ref="#dot"/> haec illi <g ref="#dot"/> unde <name xml:id="gfhtyt-d1e82-Nd1e504" ref="#Paul">apostolus</name> dicit ibi contra gentiles philosophos 
+          <lb ed="#O"/>ut dicit <title>glossa</title> quod fuerunt inexusabiles quod non essent nisi scivissent 
+          <lb ed="#O"/>ipsum esse deum
+        </p>
+        <p xml:id="gfhtyt-d1e82-d1e514">
+          <g ref="#pilcrow"/>praeterea potest scire aliquod est primum efficiens in entibus per 
+          <lb ed="#O"/>hoc quod causae efficientes ordinante non sunt infinitae quia si essent in<lb ed="#O" break="no"/>finitae 
+          non esset inter ipsas ordo sicut arguit <ref xml:id="gfhtyt-d1e82-Rd1e522"><name xml:id="gfhtyt-d1e82-Nd1e523" ref="#Aristotle">philosophos</name> 2 <title ref="#Metaphysics">metaphysicae</title></ref> sed hoc 
+          <lb ed="#O"/>est <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> <unclear>m?m</unclear> et scitum esse <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> scilicet quod inter <g ref="#dot"/>8<g ref="#dot"/> causas essentiales 
+          <lb ed="#O"/>in mundo non sit ordo</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e549"><g ref="#pilcrow"/>praeterea per eundem modum potest demonstrari quod <unclear>sit</unclear> 
+          <lb ed="#O"/>alia prima causa formalis in mundo sicut probatu <ref xml:id="gfhtyt-d1e82-Rd1e556"><name xml:id="gfhtyt-d1e82-Nd1e557" ref="#Aristotle">philosophus</name> 2 <title ref="#Metaphysics">metaphysicae</title></ref> et talis est 
+          deus</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e564"><g ref="#pilcrow"/>praeterea potet probari demonstrative aliquem esse finem ultimum per eundem modum 
+          <lb ed="#O"/>demonstrandi et per modum demonstrandi <ref xml:id="gfhtyt-d1e82-Rd1e569"><name xml:id="gfhtyt-d1e82-Nd1e570" ref="#Aristotle">aristotelis</name> primo <title ref="#Ethics">ethicorum</title></ref> in principio 
+          <lb ed="#O"/>ubi agitur sic nisi esset aliquis finis ultimus quem desideraremus propter 
+          <lb ed="#O"/>se et non propter aliquem finem <pc ana="#punctuselevatus"/> tunc in finibus procedentur infinitum et ita desi<lb ed="#O" break="no"/>derium 
+          naturale hominis <g ref="#dot"/> esset otiosum quod est impossibile</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e589"><g ref="#pilcrow"/>praeterea potest demonstrari aliquis 
+          simpliciter aeternum et <choice><orig>in mobile</orig><reg>immobile</reg></choice> <choice><orig>sicud</orig><reg>sicut</reg></choice> <ref xml:id="gfhtyt-d1e82-Rd1e600"><name xml:id="gfhtyt-d1e82-Nd1e601" ref="#Aristotle">philosophus</name> probat <g ref="#dot"/>8<g ref="#dot"/> <title ref="#Physics">physicorum</title></ref> et <unclear>tale <!-- talem --></unclear> 
+          <lb ed="#O"/><choice><orig>nichil</orig><reg>nihil</reg></choice> primum inter talia est deus</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e622"><g ref="#pilcrow"/>praeterea alia fuerunt facta in an<lb ed="#O" break="no"/>tiqua 
+          lege et similiter in nova unde potuerunt illa facta <g ref="#dot"/> scientes 
+          <lb ed="#O"/>scire deum esse <choice><orig>sicud</orig><reg>sicut</reg></choice> <ref xml:id="gfhtyt-d1e82-Rd1e635"><title ref="#gen">genesis</title> 11</ref> <!-- possibily genesis 11:7 or 11:8 --> de subita divisione linguarum et illud <ref xml:id="gfhtyt-d1e82-Rd1e643"><title ref="#ex">exodus</title> 
+          <lb ed="#O"/>14</ref> de <choice><orig>submertione</orig><reg>submersione</reg></choice> aegipciorum et divisione aquarum maris et de 
+          <lb ed="#O"/>subversione uxoris <name xml:id="gfhtyt-d1e82-Nd1e656" ref="#Lot">loth</name> instatuam <unclear>sab</unclear> <ref xml:id="gfhtyt-d1e82-Rd1e661"><title ref="#gen">genesis</title> 19</ref> et <unclear>iafi?a</unclear> 
+          <lb ed="#O"/>alia Et in nova lege quod omnes discipuli <g ref="#dot"/> subito loquebantur linguis 
+          <lb ed="#O"/>omnium nationum <ref xml:id="gfhtyt-d1e82-Rd1e675"><title ref="#act">actuum</title> 2</ref> et alia <choice><orig>in numerabilia</orig><reg>innumerabilia</reg></choice></p>
+        <!-- decesio questione -->
+        <p xml:id="gfhtyt-d1e82-d1e686"><g ref="#pilcrow"/>In ista quaestione 
+          <lb ed="#O"/>sic ex procedens <g ref="#dot"/> primo tractabo <g ref="#dot"/> utrum deum esse <pc ana="#punctuselevatus"/> sic per se notum 
+          <lb ed="#O"/>secundum utrum fides et scientia eiusdem rei possunt simul esse in eodem <g ref="#slash"/> 3o <g ref="#dot"/> 
+          <lb ed="#O"/>dicam ad quaestionem recitando <unclear>opinionem <!-- opiniones?? --></unclear> doctorum <g ref="#dot"/></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e712"><lb ed="#O"/>Ad primum articulum scilicet quod deum esse sit per se notum <g ref="#dot"/> arguo per 
+          <lb ed="#O"/><ref xml:id="gfhtyt-d1e82-Rd1e718"><name xml:id="gfhtyt-d1e82-Nd1e719" ref="#JohnDamascenus">Iohannem damascenum</name> 1 libro Sententiarum capitulo 1</ref> dicit enim ibidem quod cognitio 
+          <lb ed="#O"/>existendi deum omnibus ab ipso naturaliter inserta est sed omne notum 
+          <lb ed="#O"/>naturaliter omnibus esse notum per se ergo etc</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e728">2o sic <ref xml:id="gfhtyt-d1e82-Rd1e730"><name xml:id="gfhtyt-d1e82-Nd1e731" ref="#Augustin">augustinus</name> primo <title ref="#deDoctrinaChristiana">de doctrinae christianae</title> 
+          <lb ed="#O"/>capitulo 11</ref> dicit <quote xml:id="gfhtyt-d1e82-Qd1e740">omnes enim hoc deum esse consentiuntur <pc ana="#punctuselevatus"/> quod omnibus aliis rebus ante<lb ed="#O" break="no"/>ponunt</quote> 
+            <g ref="#dot"/> Sed esse illud in quo omnes conveniunt est notum per se ergo dum 
+            <lb ed="#O"/>esse <choice><orig>optinum</orig><reg>optimum</reg></choice> omnium est notum per esse ergo multo magis deum esse est 
+          <lb ed="#O"/>notum per se</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e760"><g ref="#pilcrow"/>3o sic <ref xml:id="gfhtyt-d1e82-Rd1e763"><name xml:id="gfhtyt-d1e82-Nd1e764" ref="#HughOfStVictor">hugo</name> primo libro <title ref="#deSacramentis">de sacramentis</title></ref> dicit quod deus 
+          <lb ed="#O"/>sic ab initio suam cognitionem temperavit ad hominem ut sicut quidem 
+          <lb ed="#O"/>nunquam totum poterat comprehendi sic quia est numquam prorsus posset 
+          ignorari</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e775"><g ref="#pilcrow"/>4to sic <g ref="#dot"/> Iudicium respectu cuiuscumque in omni genere debet 
+          <lb ed="#O"/>attendi penes optimum iudicans de illo sicut patet <ref xml:id="gfhtyt-d1e82-Rd1e782">primo <title ref="#Ethics">ethicorum</title></ref> et <ref xml:id="gfhtyt-d1e82-Rd1e787">4 
+          <lb ed="#O"/><title ref="#Metaphysics">metaphysicae</title></ref> sed <unclear>apt</unclear> optime iudicantes aliam deus est <g ref="#dot"/> sicut <unclear>apt</unclear> beatos 
+          <lb ed="#O"/>est illa nota per se notis <space extent="oneWordLength"/> igitur simpliciter debet dici non per se <g ref="#dot"/></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e806"><lb ed="#O"/><g ref="#pilcrow"/>Quinto <unclear>m?um</unclear> esse unitatem esset et sapientiam et veritatem 
+          <lb ed="#O"/>esse <pc ana="punctuselevatus"/> est notum per se <g ref="#dot"/> se deus est unum <unclear>principium <!-- fairly indistinguishable from 'primum' --></unclear> quod intelligitur et <unclear>numerus</unclear> et 
+          <lb ed="#O"/>sapientia et veritas sicut dicit <ref xml:id="gfhtyt-d1e82-Rd1e827"><name xml:id="gfhtyt-d1e82-Nd1e828" ref="#Augustine">augustinus</name> 2o libro <title ref="#DeLiberoArbitrio">de libero arbitrio</title> capitulo 14 
+            <lb ed="#O"/>18 et 19</ref></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e837"><g ref="#pilcrow"/>6o alia veritas est per se nota intellectui <g ref="#dot"/> <unclear>m?ra</unclear> 
+          <lb ed="#O"/>sed non est alia veritas in propositione quam deus <pc ana="punctuselevatus"/> ergo etc <unclear>mi</unclear> patet per <ref xml:id="gfhtyt-d1e82-Rd1e851"><name xml:id="gfhtyt-d1e82-Nd1e852" ref="#Anselm">anselmum</name> 
+          <lb ed="#O"/>de veritate capitulo ultimo</ref> ubi dicit quod <quote xml:id="gfhtyt-d1e82-Qd1e858">una est veritas omnium nec propter hoc sunt 
+          <lb ed="#O"/>plures veritates quia plura sunt vera sicut nec plura sunt tempora quia 
+          <lb ed="#O"/>plura sunt in tempore</quote> haec ille</p> <!-- db check "plures and plura" text has line over "a" that seems a bit confusing. Maybe "pluries or pluria"??? -->
+        
+        <p xml:id="gfhtyt-d1e82-d1e868"><g ref="#pilcrow"/>7o sic <ref xml:id="gfhtyt-d1e82-Rd1e871">8 <title ref="#deTrinitate">de trinitate</title> capitulo 7</ref> dicit <name xml:id="gfhtyt-d1e82-Nd1e877" ref="#Augustine">augustinus</name> 
+          <lb ed="#O"/>quod audito hoc nomine veritas et scito quid significatur statim <unclear>cognoscitur</unclear> ipsa veritas 
+          quae deus est et <ref xml:id="gfhtyt-d1e82-Rd1e884">8 capitulo</ref> nisi esset nobis <choice><orig>inpressa</orig><reg>impressa</reg></choice> notio boni secundum quod proba<lb ed="#O" break="no"/>remus 
+          aliquid et aliud alii <unclear>propositio</unclear> <unclear>veremus</unclear> non duceremus recte in 
+          <lb ed="#O"/>iudicando aliquid melius altero ergo cognitio boni simpliciter scilicet dei sicut ipse 
+          <lb ed="#O"/>in commenti <unclear>c</unclear> dicatur est nobis naturaliter <choice><orig>inpressa</orig><reg>impressa</reg></choice> ergo eum esse est per se no<lb ed="#O" break="no"/>tum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e912"><g ref="#pilcrow"/>8vo deus est maxime praesens intellectum ergo <choice><orig>facilime</orig><reg>facillime</reg></choice> et max<lb ed="#O" break="no"/>ime 
+          notus intellectum consequentia patet per <ref xml:id="gfhtyt-d1e82-Rd1e921"><name xml:id="gfhtyt-d1e82-Nd1e922" ref="#Augustine">augustinus</name> 10 <title ref="#deTrinitate">de trinitate</title> 22 capitulo</ref> ubi dicit quod <quote xml:id="gfhtyt-d1e82-Qd1e929">meus 
+            <lb ed="#O"/>cognoscit seipsam non ob aliud nisi quia sibi praesens est</quote> assumptum patet per <ref xml:id="gfhtyt-d1e82-Rd1e934"><name xml:id="gfhtyt-d1e82-Nd1e935" ref="#Augustine">augustinus</name> 
+          <lb ed="#O"/>8 <title ref="#DeGenesiAdLitteram">super genese ad litteram</title> capitulo 33</ref> ubi dicitur quod deus est interior cuilibet <pc ana="#punctuselevatus"/> omni 
+          <lb ed="#O"/>re et per consequens maxime prius omnium rei</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e950"><g ref="#pilcrow"/>ad oppositum deum esse est 
+          <lb ed="#O"/>articulus fidei ergo non est notum per se</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e956"><g ref="#pilcrow"/>praeterea <choice><orig>nichil</orig><reg>nihil</reg></choice> est notum per se 
+          <pb ed="#O" n="2-r"/>
+          <cb ed="#O" n="a"/>
+          <lb ed="#O"/>nisi quod cognoscitur statim notis terminis sicut patet per <ref xml:id="gfhtyt-d1e82-Rd1e966"><name xml:id="gfhtyt-d1e82-Nd1e967" ref="#Boethius">boetium</name> libro <title ref="#deHebdomadibus">de ebdomadibus</title></ref> dicit enim quod 
+          <lb ed="#O"/>illa propositio debet dici communis conceptio quam quisque probat auditam <g ref="#dot"/> Sed certe ista propositio 
+          <lb ed="#O"/>deus est non est huiusmodi <g ref="#dot"/> quia multi scientes terminos ignorant eam ergo non est per se 
+          <lb ed="#O"/>nota</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e985"><ref xml:id="gfhtyt-d1e82-Rd1e986"><name xml:id="gfhtyt-d1e82-Nd1e987" ref="#Aquinas">Thomas</name> in prima parte summae conclusione et articulo primo</ref> et <ref xml:id="gfhtyt-d1e82-Rd1e991" type="commentary">prima parte scripti distinctione 
+          <lb ed="#O"/>3 questione 2</ref> dicit quod propositionem esse per se notam <pc ana="#punctuselevatus"/> est dupliciter in se vel quo ad nos 
+          <lb ed="#O"/>primo modo dicit ipse est quaelibet propositio nota per se cuius probatum includitur in <unclear>praedicato</unclear> <unclear>subiecti</unclear> 
+          <lb ed="#O"/>sicut ista homo est animal quia cognitis terminis dicit ipse <pc ana="#punctuselevatus"/> illa scitur et sic est haec nota per se 
+          <lb ed="#O"/>deus est quia praedicatum est idem subiecto sed 2o modo non.</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1012"><g ref="#pilcrow"/>Contra istum <unclear>se</unclear> istud 
+          <lb ed="#O"/>res maxime ignotae naturaliter essent notae per se quod est <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> probatur consequentia quia 
+          <lb ed="#O"/>tales res esse est notum per se probo per medium suum esse praedicatum de tali<lb ed="#O" break="no"/>bus 
+          rebus est idem cum eis <g ref="#dot"/> vel includit in eis ergo praedicando esse de <unclear>illis</unclear> 
+          <lb ed="#O"/>est propositio nota per se.</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1035"><g ref="#pilcrow"/>praeterea tunc propositiones maxime latentes naturaliter esse <!-- something here perhaps scratched in film or on page --> notae 
+          <lb ed="#O"/>per se quod est manifeste falsum probatur consequentia <g ref="#dot"/> quia secundum ipsum propositiones in quibus ponatur diffinitio<lb ed="#O" break="no"/>nes 
+          substantiarum de eis sunt notae per se et tales sunt difficilioris 
+          <lb ed="#O"/>cognitionis omnibus propositionibus praedicantibus accidentia de subiecto ut patet per <ref xml:id="gfhtyt-d1e82-Rd1e1049"><name xml:id="gfhtyt-d1e82-Nd1e1050" ref="#Aristotle">philosophiam</name></ref> et <ref xml:id="gfhtyt-d1e82-Rd1e1053"><name xml:id="gfhtyt-d1e82-Nd1e1054" ref="#Aristotle">commentatorem</name> 
+          <lb ed="#O"/>7 <title>metaphysicae</title> commento 59 scilicet commento penultimo</ref></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1063"><g ref="#pilcrow"/>praeterea tunc propositio falsa esset nota 
+          <lb ed="#O"/>per se posito possibili sicut haec omnis rosa est substantia posito quod nulla rosa sit quia 
+          <lb ed="#O"/>in ista praedicatum includitur in subiecto</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1071"><g ref="#pilcrow"/>Ideo dicitur aliter <ref xml:id="gfhtyt-d1e82-Rd1e1074"><name xml:id="gfhtyt-d1e82-Nd1e1075" ref="#HenryOfGhent">henricus</name> dicit in summa 
+          <lb ed="#O"/>articulo 22 quaestione 2</ref> quod deum esse <unclear>convenit</unclear> dupliciter in generali sicut sub hiis 
+          <lb ed="#O"/>nominibus ens bonum veritas et similibus et aliter in speciali sub hoc nomine 
+          <lb ed="#O"/>deus primo modo dici ipse est quaestio vera in sensu diviso sed non secundo modo sed quia ista 
+          <lb ed="#O"/><unclear>quaestio</unclear> <g ref="#dot"/> dicit ipse <unclear>q?tur</unclear> in sensu composito <pc ana="#punctuselevatus"/> ideo dicendum est quod ista propositio deus est non est 
+          <lb ed="#O"/>nota per se quia ad hoc quod alia propositio sit nota per se oportet quod illa habeat ex se 
+          <lb ed="#O"/>evidentem notitiam cognitis terminis sicut dicit <name xml:id="gfhtyt-d1e82-Nd1e1102" ref="#Boethius">Boetius</name> in libro <title ref="#deHebdomadibus">de ebdomadibus</title> de 
+          <lb ed="#O"/>communibus conceptionibus quia communis conceptio est quae probat se auditam sed ita <unclear>aut</unclear> 
+          <lb ed="#O"/>ipse non est in hac deus est quia multi dubitant istam cognitis terminis unde 
+          <lb ed="#O"/><name xml:id="gfhtyt-d1e82-Nd1e1116">iste doctor</name> recte Respondet <g ref="#dot"/> et ideo dico cum ipso ut dictum est sed ad<lb ed="#O" break="no"/>dam 
+          unum verbum in Responsione ad 6 argumentum istius articuli</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1123"><g ref="#pilcrow"/><ref xml:id="gfhtyt-d1e82-Rd1e1125">ad primum</ref> sic 
+          <lb ed="#O"/>quod <ref xml:id="gfhtyt-d1e82-Rd1e1129"><name xml:id="gfhtyt-d1e82-Nd1e1130" ref="#JohnDamascenus">damascenus</name> libro 1 <title>Sententiarum</title> capitulo primo</ref> loquitur de cognitione confusa sine generali et sic 
+          <lb ed="#O"/>concedo sicut dictum est in quaestione quod cognitio dei est nobis inserta naturaliter ita scilicet quod 
+          <lb ed="#O"/>non est habita a nobis in primis conceptionibus communibus qui dupliciter esse <unclear>inser<lb ed="#O" break="no"/>te</unclear> 
+          nobis naturaliter quia nescimus quando nullo quomodo iunt in nobis ut dicit <ref xml:id="gfhtyt-d1e82-Rd1e1146"><name xml:id="gfhtyt-d1e82-Nd1e1147" ref="#Averroes">commentator</name> 
+          <lb ed="#O"/>3 <title>anima</title> commento 36</ref></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1155"><g ref="#pilcrow"/>ad 2m dico quod <name xml:id="gfhtyt-d1e82-Nd1e1158" ref="#Augustine">augustinus</name> vult dicere quod omnes aestiman<lb ed="#O" break="no"/>tes 
+          deum esse <g ref="#dot"/> hoc esse deum consentiunt <pc ana="#punctuselevatus"/> quam omnibus aliis rebus anteponunt 
+          <lb ed="#O"/>sed non omnes certe aestimant naturaliter divina esse</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1170"><g ref="#pilcrow"/>ad 3 dico sicut ad 
+          <lb ed="#O"/>primum quia <name xml:id="gfhtyt-d1e82-Nd1e1175" ref="#HughOfStVictor">hugo</name> loquitur de cognitione confusa cum dicit quod numquam deus prorsus <unclear>post</unclear> 
+          <lb ed="#O"/>ignorari scilicet ab hominbus qui cognosceret alia per intellectum quia tunc necessario cognos<lb ed="#O" break="no"/>cunt 
+          deum confuse</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1185"><g ref="#pilcrow"/>ad 4 dico quod haec non est nota per se apud angelos 
+          <lb ed="#O"/>quia et si angeli in prima apprehensione terminorum istius propositionis deus est sci<lb ed="#O" break="no"/>ant 
+          istam tamen hoc non est ex evidentia suorum terminorum sed ex alia causa 
+          <lb ed="#O"/>scilicet quia vident deum clare scilicet ex dispositione <g ref="#dot"/> cognitis non ex evidentia 
+          <lb ed="#O"/>cogniti <g ref="#dot"/> ymmo nec sic est nota per se apud deum scilicet ex sua evidentia</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1203"><lb ed="#O"/><g ref="#pilcrow"/>ad 5 patet quod istae intentiones unum numeris sapientia veritas et huiusmodi 
+          <lb ed="#O"/>sunt intentiones generales et sub talibus concessum est deum esse <pc ana="#punctuselevatus"/> esse 
+          <lb ed="#O"/>per se notum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1214"><g ref="#pilcrow"/>ad 6 de dicto <name xml:id="gfhtyt-d1e82-Nd1e1217" ref="#Augustine">augustini</name> concedo quod alia veritas est per 
+          <lb ed="#O"/>se nota sub hac intentione veritas et etiam sub intentione alia singu<lb ed="#O" break="no"/>lari 
+          sicut est haec intentio haec veritas demonstrata veritate huius ens est ens <g ref="#dot"/> et cum 
+          <lb ed="#O"/>accipitur quod non est alia veritas quam deus <pc ana="#punctuselevatus"/> dico quod intelligitur sic <g ref="#dot"/> quod non 
+          <lb ed="#O"/>est alia veritas prima in alia re quam deus <g ref="#dot"/> sed una est prima veritas omnium quae vera 
+          <lb ed="#O"/>sunt tamen aliae veritates secondariae <g ref="#dot"/> sed certe nulla res mundi dicitur veritas 
+          <lb ed="#O"/>proprie <pc ana="#punctuselevatus"/> nisi solus deus sicut videtur ex dicto <ref xml:id="gfhtyt-d1e82-Rd1e1246"><name xml:id="gfhtyt-d1e82-Nd1e1247" ref="#Augustine">augustini</name> <title>83 quaestionibus</title> quaestione prima</ref> ubi dicit quod 
+          <lb ed="#O"/>veritas non potest recipere falsitatem sed anima dicit ipse saepe falsitas ergo anima 
+          <lb ed="#O"/>non est vertas <g ref="#dot"/> eodem modo probari potest de omni anima re quod nulla sit veritas <g ref="#dot"/> <unclear>oportet</unclear> 
+          <lb ed="#O"/>sive aliud in propositione ista <g ref="#dot"/> ens est ens dicatur veritas quam deus <g ref="#dot"/> sine solus 
+          <lb ed="#O"/>deus <pc ana="#punctuselevatus"/> est nota per se haec veritas est demonstrata veritate huius prima ergo ut videtur deus est 
+          <lb ed="#O"/>per se notus sub hac intentione siglum haec veritas huius et concedo con<lb ed="#O" break="no"/>clusionem 
+          <g ref="#dot"/> sed dico quod haec cognitio est confusa et indistincta et non est inconveni<lb ed="#O" break="no"/>ens 
+          quod deus sit per se notus cognitione tali confusa et indistincta et hoc 
+          <lb ed="#O"/>est verbum quod dixi in positione fore addendum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1286"><g ref="#pilcrow"/>ad 7 dico quod <ref xml:id="gfhtyt-d1e82-Rd1e1289"><name xml:id="gfhtyt-d1e82-Nd1e1290" ref="#Augustine">augustinus</name> 
+          <lb ed="#O"/>8 <title ref="#deTrinitate">de trinitate</title> capitulo 7 et 8</ref> loquitur de cognitione generali et indistincta sicut patet in 
+          <lb ed="#O"/><choice><orig>hiis</orig><reg>his</reg></choice> <unclear>tales</unclear> <unclear>quibus</unclear> utitur veritas et bonum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1309"><g ref="#pilcrow"/>ad ultimum dico quod deus est 
+          <lb ed="#O"/>maxime praesens intellectum et cuilibet rei sicut probatur quia interior omni re <g ref="#dot"/> 
+          <lb ed="#O"/>sed non semper eset praesens in ratione obiecti cognoscibilis et hoc sub conceptu 
+          <lb ed="#O"/>distincto quia est obiectum voluntarium sed talis praesentia requiritur ad hoc quod aliquid 
+          <lb ed="#O"/>propter suam praesentiam cognoscatur et sic dico de anima quod ipsa est sibi praesens 
+          <lb ed="#O"/>saltem quando cognoscit aliqua alia utrum aut sit ibi praesens in ratione obiecti 
+          <lb ed="#O"/>posito quod non noscat alia <pc ana="#punctuselevatus"/> alias tractabitur <pc ana="punctuselevatus"/></p>
+        
+        <!-- article 2 -->
+        
+        <p xml:id="gfhtyt-d1e82-d1e1333"><lb ed="#O"/>Secundus articulus huius quaestionis est utrum fides est scientia eiusdem 
+          <lb ed="#O"/>rei <pc ana="#punctuselevatus"/> possint esse simul in eodem <g ref="#dot"/> arguitur quod non quia tunc fi<lb ed="#O" break="no"/>des 
+          posset manere in patria <g ref="#dot"/> consequens falsum sed potest respondere <choice><orig>sicud</orig><reg>sicut</reg></choice> 
+          <ref xml:id="gfhtyt-d1e82-Rd1e1351"><name xml:id="gfhtyt-d1e82-Nd1e1352" ref="#HenryOfGhent">henricus</name> respondet in <title ref="#SummaeQuaestionumOrdinariarum">summa</title> articulo 13 quaestione 7</ref> quod non sequitur quia clara visio 
+          <lb ed="#O"/>et fides de eos repugnant pro eo quod fides cognitio obscura</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1363">
+          <cb ed="#O" n="b"/><!-- 2rb -->
+          <lb ed="#O"/><g ref="#pilcrow"/>Sed contra eundem in angelis sunt duae cognitiones omnium creaturarum quarum una 
+          <lb ed="#O"/>est obscurior altera clara scilicet cognitio matutina quae est in verbo cogni<lb ed="#O" break="no"/>tio 
+          obscurior <pc ana="#punctuselevatus"/> est cognitio in genere proprio scilicet vespertina sicut dicit <ref xml:id="gfhtyt-d1e82-Rd1e1374"><name xml:id="gfhtyt-d1e82-Nd1e1375" ref="#Augustine">augustinus</name> 
+          <lb ed="#O"/>4 <g ref="#dot"/> <title ref="#DeGenesiAdLitteram">super genesem ad litteram</title> capitulo 28 20 27 et per totum</ref> ergo eiusdem potest 
+          <lb ed="#O"/>esse cognitio duplex clara et obscura non repugnant</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1390"><g ref="#pilcrow"/>Secundo 
+          <lb ed="#O"/>si sic <pc ana="#punctuselevatus"/> tunc nulla foret difficultas in credendo aliquem articulum fidei <g ref="#dot"/> 
+          <lb ed="#O"/>et per consequens nec meritum prima consequentia patet <pc ana="punctuselevatus"/> quia numquam accidit difficultas 
+          <lb ed="#O"/>in credendo illud quod est scitum <g ref="#dot"/> cum homo credat illud <pc ana="#punctuselevatus"/> velit nolit <g ref="#dot"/> consequentia 
+          <lb ed="#O"/>patet per <ref xml:id="gfhtyt-d1e82-Rd1e1414" type="commentary"><name xml:id="gfhtyt-d1e82-Nd1e1415" ref="#Lombard">magistrum</name> 2 <title>sententiarum</title> distinctione 23 versus finem</ref> ubi monet quaestionem an 
+          <lb ed="#O"/>homo potuit mereri per gratiam creationis cum ipse potuit per gratiam 
+          <lb ed="#O"/>declinare malum vel a malo et solint quod non fecisset illi 
+          <lb ed="#O"/><unclear>meritum</unclear> <g ref="#dot"/> et si declinasset a malo et non consensisset quia <choice><orig>nichil</orig><reg>nihil</reg></choice> 
+          <lb ed="#O"/>erat tunc in eo quod ad malum mpelleret unde nobis dicit non est 
+          <lb ed="#O"/>meritum est si malum non facimus ubi non est causa nos <choice><orig>inpellens</orig><reg>impellens</reg></choice> ad 
+          <lb ed="#O"/>agendum haec illi <!-- end of quote from lombard ?? --> Ex quibus dictis apparet quod est meritum nisi uib est impul<lb ed="#O" break="no"/>sus 
+          <g ref="#dot"/> et per consequens difficultas</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1454"><g ref="#pilcrow"/>Tertio si sic fides esset 
+          <lb ed="#O"/>apparentium quod est contra <ref xml:id="gfhtyt-d1e82-Rd1e1459"><name xml:id="gfhtyt-d1e82-Nd1e1460" ref="#Paul">apostolum</name> <title ref="#hebr">hebraeos</title> 11</ref> ubi describit fidem <pc ana="#punctuselevatus"/> quod <quote xml:id="gfhtyt-d1e82-Qd1e1469" source="http://scta.info/resource/hebr11_1">ipsa 
+          <lb ed="#O"/>est argumentum non apparentium</quote></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1474"><g ref="#pilcrow"/>Quarto tunc evacuaretur meritum 
+          <lb ed="#O"/>articuli sciti per <name xml:id="gfhtyt-d1e82-Nd1e1479" ref="#GregoryGreat">gregorium</name> <g ref="#dot"/> quia fides non habet meritum <g ref="#dot"/> ubi humana ratio prae<lb ed="#O" break="no"/>bet 
+          experimentum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1489"><g ref="#pilcrow"/>Quinto fides includit incertitudinem <g ref="#dot"/> scientia vero 
+          <lb ed="#O"/>certitudinem sed certitudo et incertitudo eiusdem repugnant</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1497"><lb ed="#O"/><g ref="#pilcrow"/>Item <name xml:id="gfhtyt-d1e82-Nd1e1501" ref="#Paul">paulus</name> post raptum scivit articulos fidei quia ipse dicit 
+          12 quod <quote xml:id="gfhtyt-d1e82-Qd1e1504" source="http://scta.info/resource/IIcor12_2">ipse <space extent="oneWordLength"/> hominem in christo</quote> et post pauca et <space extent="oneWordLength"/> 
+          <lb ed="#O"/><quote xml:id="gfhtyt-d1e82-Qd1e1512" source="http://scta.info/resource/IIcor12_4"><choice><orig>archana</orig><reg>arcana</reg></choice> quae non licet homini loqui</quote> et <unclear>multum</unclear> est quod postea fuit fide<lb ed="#O" break="no"/>lis 
+          et habuit fidem ergo etc</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1525"><g ref="#pilcrow"/>ad oppositum adhaerere alicui 
+          <lb ed="#O"/>articulo sufficienter per demonstrationem et sufficienter propter auctoritatem scripturae non 
+          <lb ed="#O"/>repugnant ergo fides et scientia non repugnant consequentia plana est <g ref="#dot"/> assumptum 
+          <lb ed="#O"/>probatur quia et si aliquis ad aliquem articulum haberet demonstrationem <pc ana="punctuselevatus"/> ipse tamen posset 
+          <lb ed="#O"/>illi articulo adhaerere propter auctoritatem sic quod et si non haberet demonstra<lb ed="#O" break="no"/>tionem 
+          ad hoc propter auctoritatem ipse adhaereret ergo tunc ipse sufficienter ad<lb ed="#O" break="no"/>haereret 
+          propter demonstrationem <pc ana="punctuselevatus"/> et <unclear>si?cut</unclear> sufficienter <sic>sufficienter</sic> propter auctoritatem</p>
+        <p xml:id="gfhtyt-d1e82-d1e1552">
+          <g ref="#pilcrow"/>2o 
+          <lb ed="#O"/>christus habuit scientiam claram omnium quae scit deus ergo etc <ref xml:id="gfhtyt-d1e82-Rd1e1558"><name xml:id="gfhtyt-d1e82-Nd1e1559" ref="#Lombard">magister</name> patet 3 libro 
+          <lb ed="#O"/><title>sententiarum</title> distinctione 14 capitulo 4</ref> ubi probat quod christus secundum animam humanam omnia scivit <name xml:id="gfhtyt-d1e82-Nd1e1566" ref="#Lombard">magister</name> 
+          <lb ed="#O"/>probatur quia christus habuit spem gratiae habuit fidem consequentia patet quia spes praesupponit 
+          <lb ed="#O"/>fidem <choice><orig>assuptum</orig><reg>assumptum</reg></choice> patet per diffinitione spei <ref xml:id="gfhtyt-d1e82-Rd1e1578">3 libro distinction 20</ref> ubi dicitur quod spes 
+          <lb ed="#O"/>est virtus qua spiritualia et aeterna bona cum fiducia exspectantur sed sic 
+          <lb ed="#O"/><unclear>manifestum</unclear> est <pc ana="#punctuselevatus"/> christus expectavit glorificationem sui corporis et in pas<lb ed="#O" break="no"/>sibilitatem 
+          ergo etc
+        </p>
+        <p xml:id="gfhtyt-d1e82-d1e1591">
+          <g ref="#pilcrow"/>3o aliquis potest ita finitis adhaerere alicui ar<lb ed="#O" break="no"/>ticulo 
+          propter fidem et auctoritatem sicut alius propter demonstrationem non propter hoc tollitur 
+          <lb ed="#O"/>adhaesio per fidem tamen illa sit ita fortis sicut adhaesio demonstrationem</p>
+        <!-- a. 3 according to marign-->
+        <p xml:id="gfhtyt-d1e82-d1e1602">
+          <ref xml:id="gfhtyt-d1e82-Rd1e1604"><name xml:id="gfhtyt-d1e82-Nd1e1605" ref="#HenryOfGhent">henricus</name> in <title>summa</title> 13 articulo 7</ref> dicit quod scientia est duplex una quae 
+          <lb ed="#O"/>vocatur visio haec est in beatis et in raptis <g ref="#dot"/> alia quae est 
+          <lb ed="#O"/>ex evidentia rei <unclear>vel</unclear> ex discursu prima scientia evacuat fi<lb ed="#O" break="no"/>dem 
+          quo ad actum et habitum in beatis et in raptis evacuat ac<lb ed="#O" break="no"/>tum 
+          et non habitum <g ref="#dot"/> scientia secundo modo dicta quae vocatur abstrativa non eva<lb ed="#O" break="no"/>cuat 
+          fidem <g ref="#dot"/> haec est sententia suae positionis</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1631"><g ref="#pilcrow"/>Contra istud si 
+          <lb ed="#O"/>in beatis scientia evacuaret fidem quo ad actum et habitum hoc 
+          <lb ed="#O"/>esset tunc ex contrarietate eius ad habitum fidei quae est secundum claritatem et ob<lb ed="#O" break="no"/>scuritatem 
+          <lb ed="#O"/>sicut ipse declarat communiter ergo raptus amitteret fidem cum 
+          <lb ed="#O"/>sua visio sit suam clara et ita sequitur quod ipse post raptum non haberet 
+          <lb ed="#O"/>fidem posito quod deus non infunderet novam ergo nec caritatem quia ca<lb ed="#O" break="no"/>ritas 
+          non est sine fide et sic aliquis <unclear>innitus</unclear> similiter sua culpa 
+          <lb ed="#O"/>amitteret caritatem quod est falsum quia talis raptus et alius consimilis</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1655"><lb ed="#O"/><g ref="#pilcrow"/>2o si illud esset verum tunc sic aliquis adquireret scientiam abstracti<lb ed="#O" break="no"/>vam 
+          de <choice><orig>alico</orig><reg>aliquo</reg></choice> articulo ita continue minueretur habitus fidei in ipso et conti<lb ed="#O" break="no"/>nue 
+          <g ref="#dot"/> sicut plus perficeret in scientia illius ita si des plus minueretur 
+          <lb ed="#O"/>et per consequens non expediret proficere in <unclear>thema</unclear> et prima consequentia probatur quia si 
+          <lb ed="#O"/>plena et perfecta scientia propter contrarietatem eius ad fidem corrumpat fidem 
+          <lb ed="#O"/>totaliter <g ref="#dot"/> sequitur quod scientia minor <unclear>a??liter</unclear> corrumpat unde minuat consequentia 
+          <lb ed="#O"/>ista probatur per similem modum arguendi <ref xml:id="gfhtyt-d1e82-Rd1e1685"><name xml:id="gfhtyt-d1e82-Nd1e1686" ref="#Aristotle">philosophi</name></ref> et <ref xml:id="gfhtyt-d1e82-Rd1e1689"><name xml:id="gfhtyt-d1e82-Nd1e1690" ref="#Averroes">commentatoris</name> 3o <title ref="#deCaelo">de caelo</title> commento 
+            <lb ed="#O"/>72</ref> dicit quod si ignis calefaciat propter angelos eius acu<lb ed="#O" break="no"/>tos 
+          calefaciant <unclear>a??liter</unclear> quia dicit <name xml:id="gfhtyt-d1e82-Nd1e1703" ref="#Averroes">commentator</name> a causis diversis secundum magis 
+          <lb ed="#O"/>et minus proveniunt <choice><orig>neccessario</orig><reg>necessario</reg></choice> causata diversa secundum magis et mi<lb ed="#O" break="no"/>nus</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1716"><g ref="#pilcrow"/>3o contra eum tunc in angelis non essent duae tales cognitio<lb ed="#O" break="no"/>nes 
+          <g ref="#dot"/> sicut est in primo argumento istius articuli scilicet matutina et ves<lb ed="#O" break="no"/>pertina 
+          quia ex quo <sic>matina</sic> est clara ipsa corrumpit obscuram et non 
+          <lb ed="#O"/>patitur aliam obscuram cum ea secundum ipsum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1730"><g ref="#pilcrow"/><ref xml:id="gfhtyt-d1e82-Rd1e1732"><name xml:id="gfhtyt-d1e82-Nd1e1733" ref="#Scotus">doctor subtilis</name> 
+          <lb ed="#O"/>3 libro distinctione 24 quaestione unica</ref> dicit loquendo de scientia sicut <name xml:id="gfhtyt-d1e82-Nd1e1739" ref="#Aristotle">philosophus</name> primo <title ref="#PosteriorAnalytics">pos<lb ed="#O" break="no"/>teriorum</title> 
+          sic est possibile quod idem de eodem scientiam habeat et fidem et cum 
+          <lb ed="#O"/>det ad 4m argumentum de <name xml:id="gfhtyt-d1e82-Nd1e1749" ref="#Peter">petro</name> et <name xml:id="gfhtyt-d1e82-Nd1e1753" ref="#John">iohanne</name> quia tunc in passione non 
+          <pb ed="#O" n="2-v"/>
+          <cb ed="#O" n="a"/>
+          <lb ed="#O"/>habuerit fidem de isto articulo et respondet ad secundum argumentum quod habito medio <unclear>de termino</unclear> medium 
+          <lb ed="#O"/><unclear>dialect?um</unclear> <choice><orig>nichil</orig><reg>nihil</reg></choice> operatur quia <choice><orig>inpeditur</orig><reg>impeditur</reg></choice> a medio <unclear>de termino</unclear></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1775"><g ref="#pilcrow"/>Contra 
+          <lb ed="#O"/>istum si dicat verum sequitur quod <name xml:id="gfhtyt-d1e82-Nd1e1780" ref="#Paul">paulus</name> in raptu amisit fidem ergo post 
+          <lb ed="#O"/>raptum non habuit fidem posito quod deus aliam non creasset et per consequens post 
+          <lb ed="#O"/>raptum propter hoc quod vidit deum fuit infidelis</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1788"><g ref="#pilcrow"/>Eodem modo potest argui 
+          <lb ed="#O"/>de <name xml:id="gfhtyt-d1e82-Nd1e1793">thomas apostolo</name></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1795"><g ref="#pilcrow"/>2o sequitur contra ipsum quod ipse sine suo demerito in in<lb ed="#O" break="no"/>vitus 
+          amisit caritatem tamen caritas non sit <quote xml:id="gfhtyt-d1e82-Qd1e1800" source="http://scta.info/resource/hebr11_6">sine fide inpossibile 
+          <lb ed="#O"/>est placere deo</quote> ut dicit <ref xml:id="gfhtyt-d1e82-Rd1e1805"><name xml:id="gfhtyt-d1e82-Nd1e1806" ref="#Paul">apostolus</name> <title ref="#hebr">ad hebraeos</title> 11</ref></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1814">3o sequitur quod quicquid <name xml:id="gfhtyt-d1e82-Nd1e1816" ref="#Paul">pau<lb ed="#O" break="no"/>lus</name> 
+          postea fecit fuit peccatum quia <quote xml:id="gfhtyt-d1e82-Qd1e1821" source="http://scta.info/resource/rom14_23">omne quod non est ex fide est peccatum</quote> <ref xml:id="gfhtyt-d1e82-Rd1e1824"><title>ad 
+          <lb ed="#O"/>Romanos</title> 14 in fine</ref></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1831"><g ref="#pilcrow"/>De hoc quod dicit ad 2m argumentum quod habito medio <unclear>demonstra<lb ed="#O" break="no"/>tivo</unclear> 
+          medium <unclear><choice><orig>dyalecticum</orig><reg>dialecticum</reg></choice></unclear> <choice><orig>nichil</orig><reg>nihil</reg></choice> sed <choice><orig>inpeditur</orig><reg>impeditur</reg></choice> hoc est falsum quia per <unclear>demonstratio<lb ed="#O" break="no"/>nes</unclear> 
+        <choice><orig>dyalecticas</orig><reg>dialecticas</reg></choice> inducit ad confirmans sicut dicit <name xml:id="gfhtyt-d1e82-Nd1e1862" ref="#Averroes">commentator</name> post media demonstrativa 
+          <lb ed="#O"/>ergo tale medium aliquid operatur propter demonstrationem</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1868"><g ref="#pilcrow"/>2o aliquis potest adhaerere propter auc<lb ed="#O" break="no"/>toritatem 
+          ita firmiter sicut alius per demonstrationem et firmius medium est quam alius de facto 
+          <lb ed="#O"/>adhaeret per demonstrationem ergo si talis adquirat per demonstrationem plus ad hoc operabitur 
+          <lb ed="#O"/>medium <choice><orig>dyalecticum</orig><reg>dialecticum</reg></choice> quam demonstratum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1882"><g ref="#pilcrow"/>de hoc quod dicit ad 4m argumentum quod <name xml:id="gfhtyt-d1e82-Nd1e1885" ref="#Peter">pe<lb ed="#O" break="no"/>trus</name> 
+          et <name xml:id="gfhtyt-d1e82-Nd1e1890" ref="#John">iohannes</name> non habuerunt fide de illo articulo quia quod hoc quod ipsi sciverunt 
+          <lb ed="#O"/>per visum non fuit articulus fidei scilicet quod ipse homo visus fuit crucifixus 
+          <lb ed="#O"/>sed quod deus homo fuit sicut patet in symbolo quod sciverunt tunc medium est <pc ana="#punctuselevatus"/> 
+          <lb ed="#O"/>tum quia nescierunt utrum accidentia quae ibi videbantur fuerunt sine subiecto <unclear>tum</unclear> 
+          quia nesciebant utrum christus <g ref="#dot"/> aliquem alium in tantum quod non posset ab eo 
+          <lb ed="#O"/><unclear>desterni</unclear> loco <unclear>omni</unclear> statuisset non plura urentis transeam <!-- road to emaus quote; look for bible verse --></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1913"><g ref="#pilcrow"/>ad 
+          <lb ed="#O"/>istum articulum dico quod sic quia habitus fidei et scientia non repugnat secundum 
+          <lb ed="#O"/>se sicut probant argumenta adducta contra <name xml:id="gfhtyt-d1e82-Nd1e1920" ref="#HenryOfGhent">doctorem solempnem</name> et propter hoc quod <name xml:id="gfhtyt-d1e82-Nd1e1923" ref="#Paul">pau<lb ed="#O" break="no"/>lus</name> 
+          ut ipse testatur <title>2 corinthios</title> <sic>11</sic> <quote xml:id="gfhtyt-d1e82-Qd1e1933" source="http://scta.info/resource/IIcor12_4">scivit multa <choice><orig>archana</orig><reg>arcana</reg></choice> quae non habet 
+          homini loqui</quote> ubi <title>glossa</title> dicit quod ipse intimationem percepti de secreta 
+          <lb ed="#O"/>dei essentia ipse ergo recoluit se talia vidisse et per consequens scivisse 
+          <lb ed="#O"/>ergo tunc scivit se scivisse ergo tunc scivit quando coluit <g ref="#dot"/> dico tamen quod non 
+          <lb ed="#O"/>manebit in patria de facto sed corrumpetur non a scientia tamquam a contrario 
+          <lb ed="#O"/>sed a deo quia si esset sine dubio superflueret vel fieret cognitio clara 
+          <lb ed="#O"/>ex quo nunc respectu eiusdem obiecti habebit aliam cognitionem immediatam 
+          <lb ed="#O"/>et per se et post hoc dico propter cognitionem <unclear>matu?nam</unclear> angelorum quia certe ipsa 
+          <lb ed="#O"/>non est cognitio <unclear>creaturae</unclear> primo et immediate sed est immediate cognitio dei et ex hoc quod per 
+          <lb ed="#O"/>istam cognitionem cognoscitur deus immediate ex consequenti per ipsum deum cognitum cognos<lb ed="#O" break="no"/>cuntur 
+          <unclear>c?e</unclear> istud declarat angelus diffuse <ref xml:id="gfhtyt-d1e82-Rd1e1970">4 libro <title ref="#DeGenesiAdLitteram">super genesem ad 
+            <lb ed="#O"/>litteram</title></ref> propter hoc certe alia cognitio scilicet despertina non superfluit cum non 
+          alia ab illa prima cognitio respectu creaturarum et immediata in angelis praeter 
+          <lb ed="#O"/>illam</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1980"><g ref="#pilcrow"/>ad primum concedo quod posset fides manere in patria sed non 
+          <lb ed="#O"/>manebit sicut dictum est in positione</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e1987"><g ref="#pilcrow"/>ad 2m concedo quod habita suam 
+          <lb ed="#O"/>alicuius articuli non est difficultas alia sibi adhaerere <g ref="#dot"/> Et cum arguitur ergo in 
+          <lb ed="#O"/>adhaerendo non est meritum <g ref="#dot"/> dico quod non sequitur sed sequitur in adhaeren<lb ed="#O" break="no"/>do 
+          illi articulo propter fidem vel auctoritatem <name xml:id="gfhtyt-d1e82-Nd1e2001" ref="#Lombard">magistri</name> quod in loco contradicit 
+          <lb ed="#O"/><name xml:id="gfhtyt-d1e82-Nd1e2005" ref="#Anselm">anselmum</name> et <unclear>aliquis auctoritatibus <!-- number and case doen't seem to match --></unclear> et ideo <space extent="oneWordLength"/> ibi negatur potest tamen dici quod non est meri<lb ed="#O" break="no"/>tum 
+          proprie nisi ubi est difficultas et ideo primi parentes in statu innocentiae 
+          <lb ed="#O"/>nec etiam angeli potuerunt mereri proprie et sic potest concedi quod habens scientiam alicuius 
+          <lb ed="#O"/>articuli non meretur proprie et hoc non est inconveniens</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2022">ad 3m dico quod ex 
+          <lb ed="#O"/>isto articulo sequitur quod fides sit apparentia naturaliter quomodo loquitur <name xml:id="gfhtyt-d1e82-Nd1e2026" ref="#Paul">apostolus</name> quia nullus potest 
+          <lb ed="#O"/>scire aliquem articulum fidem <g ref="#dot"/> dico ex puris naturalibus</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2034"><g ref="#pilcrow"/>ad 4m deduco 
+          <lb ed="#O"/><name xml:id="gfhtyt-d1e82-Nd1e2038" ref="#GregoryGreat">gregorius</name> patet per idem quod ipse vocat humanam rationem <g ref="#dot"/> rationem naturalem scilicet quam 
+          <lb ed="#O"/>potest homo ex puris naturalibus habere quomodo non potest habere aliquem articulum fidei</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2046"><lb ed="#O"/><g ref="#pilcrow"/>ad 5 <g ref="#dot"/> dico quod fides non excludit certitudinem nec includit 
+          <lb ed="#O"/>incertitudinem sed includit solum non habere certitudinem ex se</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2055"><g ref="#pilcrow"/>ad argumenta alterius partis ad oppositum ad primum cum arguitur etc dico quod probat 
+          intentum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2059"><g ref="#pilcrow"/>ad 2 dico sicut dicit <ref xml:id="gfhtyt-d1e82-Rd1e2062"><name xml:id="gfhtyt-d1e82-Nd1e2063" ref="#Lombard">magister</name> 3 libro distinctione 26</ref> quod 
+          <lb ed="#O"/>christus non habuit fidem nec specie quae sunt virtutes infusae unde in dif<lb ed="#O" break="no"/>finitione 
+          spei alligata ponitur virtus tamquam genus <g ref="#dot"/> et ideo non compe<lb ed="#O" break="no"/>tit 
+          christo secundum illam particulam quamvis competat sibi secundum aliam particulam 
+          ut probatur</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2077"><g ref="#pilcrow"/>ad 3m patet quod probat propositum</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2081"><g ref="#pilcrow"/>ad 4m patet de <name xml:id="gfhtyt-d1e82-Nd1e2084" ref="#Peter">petro</name> et <name xml:id="gfhtyt-d1e82-Nd1e2087" ref="#John">iohanne</name> quod non sciverunt tunc aliquem articulum 
+          fidei ad propositum scilicet de passione hominis <space extent="oneWordLength"/> habuissent aliam cognitionem 
+          et si sic tunc argumentum est probans propositionem 5m argumentum de paulo probat propositionem</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2093"><g ref="#pilcrow"/>ad quaestionem dicit <ref xml:id="gfhtyt-d1e82-Rd1e2096"><name xml:id="gfhtyt-d1e82-Nd1e2097" ref="#HenryOfGhent">henricus</name> in <title>summa</title> articulo 21 quaestione 4ta</ref> quod aliquem esse 
+          <lb ed="#O"/>demonstrabile est dupliciter vel ex natura rei vel dispositione intellectus nostri primo modo 
+          <lb ed="#O"/>dicit ipse non probat demonstrari deum esse quia deum esse dicit ipse non est cognoscibile 
+          <lb ed="#O"/>per medium non eest medium dicit ipse inter eius esse et essentiam sed idem 
+          <lb ed="#O"/>est in ipso esse et essentia <g ref="#dot"/> in creaturi vero <g ref="#dot"/> non est idem esse et essentia ut ipse 
+          <lb ed="#O"/>dicit quaestione immediate praecedente secundo modo dicit ipse deum esse est demonstrabile</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2119"><g ref="#pilcrow"/>contra 
+          <lb ed="#O"/>iste de diversitate inter esse et essentia in creaturis arguo primo sic esse 
+          <lb ed="#O"/>in creatura simplici sicut in angelo aut est substantia vel accidens <pc ana="#punctuselevatus"/> si accidens <g ref="#dot"/> 
+          <lb ed="#O"/>ergo et si deus <choice><orig>adnichilaret</orig><reg>annihilaret</reg></choice> illud est <unclear>adhuc</unclear> angelus esset substantia perfectissima post 
+          <lb ed="#O"/>deum et tamen non quia esse eius foret corruptum <g ref="#dot"/> et sequitur similiter 
+          <lb ed="#O"/>quod esset quia tota sua substantia maneret si esse angeli <g ref="#dot"/> sit substantia <g ref="#dot"/>
+          <cb ed="#O" n="b"/><!-- 2vb -->
+          <lb ed="#O"/>est angelus ipse et erit idem esse et essentia angeli cum essentia angeli sit ipse angelus 
+          <lb ed="#O"/>si alia substantia aut ergo creata vel increata <g ref="#dot"/> si deus si creata <pc ana="#punctuselevatus"/> 
+          <lb ed="#O"/>quaerendum est de eius esse <choice><orig>sicud</orig><reg>sicut</reg></choice> se esse angeli et erit processus in infinitum 
+          <lb ed="#O"/>si substantia increata tunc nihil est medium inter esse et essentia medium est quia etiam sicut 
+          <lb ed="#O"/>deus est <g ref="#dot"/> esse <unclear>t?e</unclear> ita est eius essentia sicut dicit <name xml:id="gfhtyt-d1e82-Nd1e2175" ref="#Dionysius">beatus dyonisius</name> <title ref="#deCoelestiHierarchia">de caelesti 
+            <lb ed="#O"/>ierarchia</title> et similiter <ref xml:id="gfhtyt-d1e82-Rd1e2183"><name xml:id="gfhtyt-d1e82-Nd1e2184" ref="#Grosseteste">linconiensis <!-- grossetest? --></name> capitulo 4 commento 3o</ref> et per consequens sic esse et essentia</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2190">
+          <lb ed="#O"/><g ref="#pilcrow"/>2o sic esse <unclear>c?e</unclear> est aliquod ens creatum ergo per ipsum potest demonstrari 
+          <lb ed="#O"/>esse <unclear>de?ne</unclear> propter quid et ita est aliquod medium inter ipsum esse et eius essentiam</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2201">
+          <lb ed="#O"/><g ref="#pilcrow"/>3o tunc quaestio si est esset <unclear>quaestio</unclear> composita quia quaerit diversum de 
+          <lb ed="#O"/>diverso quod negat <ref xml:id="gfhtyt-d1e82-Rd1e2209"><name xml:id="gfhtyt-d1e82-Nd1e2210" ref="#Aristotle">philosophum</name> 2o <title ref="#PosteriorAnalytics">posteriorum</title></ref> <g ref="#dot"/> <name xml:id="gfhtyt-d1e82-Nd1e2219" ref="#Aquinas">Thomas</name> dicit et recte ad quaestionem 
+          <lb ed="#O"/>prima parte <title ref="#SummaTheologica">summae</title> quaestione et articulo 2o demonstratio est duplex quae 
+          <lb ed="#O"/>quaedam propter quid <g ref="#dot"/> quae procedit a prioribus <unclear>seipsa</unclear> <g ref="#dot"/> Et alia est quia quae procedit 
+          <lb ed="#O"/>ab effectu <g ref="#dot"/> primo modo demonstrationis non potest demonstrari deum esse <g ref="#dot"/> Sed secundum modo 
+          <lb ed="#O"/>potest haec ille <!-- end of aquinas quote --> unde dico sicut ipse dicit</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2248"><g ref="#pilcrow"/>Ad primum argumentum concedo quod homo potest 
+          <lb ed="#O"/><sic>potest</sic> scire aliquid esse summe bonum loquendo de bonitate <unclear>naturae</unclear> sed loquendo  
+          <lb ed="#O"/>de bonitate morum <g ref="#dot"/> dico quod non quia sic deus non est bonus 
+          <lb ed="#O"/>cum non habeat mores nec aliquid aliud a deo est summe bonum ita scilicet quod 
+          <lb ed="#O"/>melius esse non potest et ideo <choice><orig>nichil</orig><reg>nihil</reg></choice> est sicut summe bonum et sic loquendo 
+          <lb ed="#O"/>de bono dico quod non sequitur ex hoc quod aliquid sit summe malum nullae 
+          <lb ed="#O"/>quia nihil quod est malum nullae est pura privatio <g ref="#dot"/> sicut dicit <ref xml:id="gfhtyt-d1e82-Rd1e2276"><name xml:id="gfhtyt-d1e82-Nd1e2277" ref="#Augustine">augustinus</name> <title ref="#Enchiridion">en<lb ed="#O" break="no"/>chiridion</title> 
+            capitulo 7</ref> et <ref xml:id="gfhtyt-d1e82-Rd1e2286">3 libro <title ref="#DeLiberoArbitrio">de libero arbitrio</title> capitulo 31</ref> si vero loquimur de ma<lb ed="#O" break="no"/>lo 
+          moraliter sicut est aliquid summe <g ref="#dot"/> malum sicut <name xml:id="gfhtyt-d1e82-Nd1e2296" ref="#Lucifer">lucifer</name> et non 
+          <lb ed="#O"/><unclear>sequitur</unclear> quod ipse sit ita malus moraliter sicut deus est bonus bonitate 
+          <lb ed="#O"/><unclear>naturae</unclear> quia sic bonum et malum <g ref="#dot"/> non sunt contraria <g ref="#dot"/> Si vero dicatur deus 
+          <lb ed="#O"/>bonus bonitatee moris <g ref="#dot"/> adhuc non sequitur quod <choice><orig>dyabolus</orig><reg>diabolus</reg></choice> sit ita malus 
+          <lb ed="#O"/>sicut deus est bonus <g ref="#dot"/> et ad auctoritatem <g ref="#dot"/> dico quod intelligitur de contrariis <g ref="#dot"/> 
+          <lb ed="#O"/>naturalibus inter quae potest esse motus et sic non est ad propositum illa auc<lb ed="#O" break="no"/>toritas 
+          contrariis</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2333"><g ref="#pilcrow"/>ad 2m dico loquendo de <choice><orig>malicia</orig><reg>malitia</reg></choice> morum quod 
+          <lb ed="#O"/>conclusio est vera scilicet quod aliquid est simpliciter malum sic quod nulla <unclear>naturam</unclear> boni<lb ed="#O" break="no"/>tatem 
+          moris includit sed loquendo naturaliter dico quod non est verum <choice><orig>ymmo</orig><reg>immo</reg></choice> 
+          <lb ed="#O"/>sic est consequens falsum et similiter antecedens scilicet quod aliquod est magis malum et aliquid 
+          <lb ed="#O"/>minus malum quia sic <choice><orig>nichil</orig><reg>nihil</reg></choice> est malum cum omnis malitia morum sit a 
+          <lb ed="#O"/>voluntate sicut probat <ref xml:id="gfhtyt-d1e82-Rd1e2361"><name xml:id="gfhtyt-d1e82-Nd1e2362" ref="#Augustine">augustinus</name> in libro</ref> unde <unclear>man??m</unclear></p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2368"><g ref="#pilcrow"/>ad 3 argumentum dico quod hoc 
+          <lb ed="#O"/>probari potest sicut probat <name xml:id="gfhtyt-d1e82-Nd1e2373" ref="#Anselm">anselmus</name> <g ref="#dot"/> Et dico quod ipse accipit <unclear>verum</unclear> scilicet quod omnia 
+          <lb ed="#O"/>quae dicuntur adinvicem secundum magis et minus et hoc univoce dicuntur per aliam 
+          <lb ed="#O"/><unclear>n??m</unclear> communem eis scilicet ydeam talis naturae quae ydea est ipse deus inquantum 
+          <lb ed="#O"/>est ars secundum quam instituta est ita nulla et sic deus dicitur <unclear>sensitam</unclear> virtus 
+          <lb ed="#O"/><unclear>numerus</unclear> candor et simili modo de omnibus rebus mundi unde nomina specierum 
+          <lb ed="#O"/>omnium sibi conveniunt quodammodo sed aequivoce haec est enim <unclear>sensa</unclear> <name xml:id="gfhtyt-d1e82-Nd1e2398" ref="#Anselm">anselmus</name> <title>pro<lb ed="#O" break="no"/>slogion</title> 
+          capitulo 16 ubi dicit sic <sic>circumscriptit</sic> anima mea et non videt tuam 
+          <lb ed="#O"/>pulcritudinem ascultat et non audit armoniam tuam olfacit 
+          <lb ed="#O"/>et non percipit odorem tuum gustat et non cognoscit saporem tuum 
+          <lb ed="#O"/>palpat et non sentit levitatem tuam <g ref="#dot"/> habens enim divinae haec in te 
+          <lb ed="#O"/>tunc ineffabili modo quia dedisti ea rebus suo sensibili modo <g ref="#dot"/> haec 
+          <lb ed="#O"/>ille <g ref="#dot"/> Ecce quam causam dicit quod ista attribuitur deo scilicet quia deus ista 
+          <lb ed="#O"/>creavit in rebus huic concordat <ref xml:id="gfhtyt-d1e82-Rd1e2428"><name xml:id="gfhtyt-d1e82-Nd1e2429" ref="#Augustine">augustinus</name> 4 <title ref="#DeGenesiAdLitteram">super genesem <g ref="#dot"/> 
+            <lb ed="#O"/>ad litteram</title> capitulo 4 et 5</ref> ubi dicit quod deus est prima mensura primum pondus primus 
+          <lb ed="#O"/>numerus existens in omni <unclear>pondere</unclear> et omni numero et mensura et ita 
+          <lb ed="#O"/>dicit potest intelligi in aliis <choice><orig>sicud</orig><reg>sicut</reg></choice> de albedine licet homines non sic volent 
+          <lb ed="#O"/>hinc etiam sine pluralitate concordant <ref xml:id="gfhtyt-d1e82-Rd1e2453"><name xml:id="gfhtyt-d1e82-Nd1e2454" ref="#Dionysius">dyonisius</name> <title ref="#deCoelestiHierarchia">de caelesti ierarchia</title> 
+          <lb ed="#O"/>capitulo 4</ref> et <ref xml:id="gfhtyt-d1e82-Rd1e2463"><name xml:id="gfhtyt-d1e82-Nd1e2464" ref="#Grosseteste">linconiensis</name> in commento 3</ref> ubi dicitur quod deus est prima esse cuiuslibet et prima vita 
+          <lb ed="#O"/>cuiuslibet viventis <g ref="#dot"/> et prima vitus sensitiva sensientis <g ref="#dot"/> et prima sapientia sapi<lb ed="#O" break="no"/>entium 
+          et primum esse cuiuslibet existentis <g ref="#dot"/> unde dico quod deus ipse quatenus 
+          <lb ed="#O"/>est ydea alicuius nullae specificae et participatus ab illa natura secundum cuius participa<lb ed="#O" break="no"/>tionem 
+          illa null primitus existit in suo esse nullae communicat illi nullae in 
+          <lb ed="#O"/>nomine specie licet aequivoce et sic dicitur nulla communis per quam supposita illius 
+          <lb ed="#O"/>speciei communicant secundum magis et minus et in qua conveniunt et istud in<lb ed="#O" break="no"/>tendit 
+          <name xml:id="gfhtyt-d1e82-Nd1e2490" ref="#Anselm">anselmus</name> <sic><name xml:id="gfhtyt-d1e82-Nd1e2494" ref="#Anselm">anselmus</name></sic> <g ref="#dot"/> et est verum si recte intelligatur</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2500"><g ref="#pilcrow"/>ad 4 
+          <lb ed="#O"/>quod deus esse potest sciri ex motu non ex hoc quod scitur motus esse quia 
+          <lb ed="#O"/>nullus potest scire motum esse <choice><orig>sicud</orig><reg>sicut</reg></choice> probat argumentum sed dicitur quod ex hoc quod homo scit 
+          <lb ed="#O"/>motum fuisse potest ipse probare deum esse ita unde sicut sciret motum 
+          <lb ed="#O"/>esse <g ref="#dot"/> Contra video et sentio aliquid motum ergo scio vel possum 
+          <lb ed="#O"/>scire aliquid moveri ergo possume scire motum esse</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2521"><g ref="#pilcrow"/>ad 5 icitur 
+          <lb ed="#O"/>quod aliquis potest hoc scire ex subiectis sensibilibus sive sciat ipsas esse sine 
+          <lb ed="#O"/>non <g ref="#dot"/> dum tum sciat alia accidentia sensibilia esse sed de hoc quod argumentum petit 
+          <lb ed="#O"/>numquid aliquis potest scire aliquam substantiam sensibilem ex se esse dicitur quod non 
+          <lb ed="#O"/>et hoc dicitur de viatore sicut probat argumentum quia ita est de cognitione ista 
+          <lb ed="#O"/>sicut de cognitione motus <g ref="#dot"/> sed de se fortassis homo potest scire quod 
+          <lb ed="#O"/>corpus suum est substantia sed non per sensum aliquem sicut probat argumentum sed per demonstratio<lb ed="#O" break="no"/>nem</p>
+        
+        <p xml:id="gfhtyt-d1e82-d1e2544">
+          <g ref="#pilcrow"/>ad 6m dicitur quod nos possumus scire deum esse ex cognitione 
+          <lb ed="#O"/>sensitiva mediate tamen non immediate et concedo quod per spiritum possumus aliquid sci<lb ed="#O" break="no"/>re 
+          <g ref="#dot"/> et ad hoc quod <name xml:id="gfhtyt-d1e82-Nd1e2554" ref="#Augustine">augustinus</name> dicit quod omne quod <unclear>co?porus</unclear> sensus attingit sine
+          <pb ed="#O" n="3-r"/>
+          <cb ed="#O" n="a"/>
+          <lb ed="#O"/>intermissione mutatur et ideo non potest scientia comprehendi <g ref="#dot"/> dico quod vult 
+          <lb ed="#O"/>dicere quod de nullo sensibili nisi forte de corporibus <corr><add place="marginLeft">celestibus</add></corr> ut ipse ibidem postea exci<lb ed="#O" break="no"/>pit 
+          potest esse scientia certa et invariabilis et haec sub intentione singulari et casua 
+          <lb ed="#O"/>illius est quia omne sensibile hic existens est in <unclear>continua</unclear> mutatione vel aliquando erit et ideo 
+          <lb ed="#O"/>scientia illius sub intentione singulari non est certa et invariabilis ymmo nullo modo quasi 
+          <lb ed="#O"/>certa <choice><orig>sicud</orig><reg>sicut</reg></choice> dictum est ad 5m argumentum sed scientia certa solummodo est de 
+          <lb ed="#O"/>intelligentibus quod ipse intendit in illa quaestione probare finaliter et hoc est verum <pc ana="#punctusfluxus"/></p>
+      </div>
+    </body>
+  </text>
+</TEI>
